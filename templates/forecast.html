@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=arrow_upward"
+    />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+  </head>
+  <body>
+    <div class="mainGridLayout">
+      <div class="logo theme_side">
+        <a href="" class="logo-link"><h2 class="logo-heading">IRENA ASTRA</h2></a>
+      </div>
+      <header class="header"></header>
+      <aside class="aside theme_side">
+        <nav class="navbar">
+          <ul class="navbar-list">
+            <li class="navbar-item">
+              <a href="home.html" class="navbar-link">Home</a>
+            </li>
+            <li class="navbar-item">
+              <a href="aichat.html" class="navbar-link">AI Chat</a>
+            </li>
+            <li class="navbar-item">
+              <a href="forecast.html" class="navbar-link">Weather Forecast</a>
+            </li>
+            <li class="navbar-item">
+              <a href="map.html" class="navbar-link">Map</a>
+            </li>
+            <li class="navbar-item">
+              <a href="reporthazard.html" class="navbar-link">Report a Hazard</a>
+            </li>
+            <li class="navbar-item">
+              <a href="handbook.html" class="navbar-link">Handbook</a>
+            </li>
+          </ul>
+        </nav>
+      </aside>
+      <main class="main">
+        <div class="container">
+          <h1 class="text-center mb-4">Metro Manila Weather Forecast</h1>
+
+          <div class="current-card text-center mb-4">
+            <h3>Current Weather</h3>
+            <p><strong>Time:</strong> {{ current_time }}</p>
+            <p><strong>Temperature:</strong> {{ current_temperature }} °C</p>
+            <p><strong>Wind Speed:</strong> {{ current_wind_speed }} m/s</p>
+          </div>
+
+          <div class="daily-header">Past 7 Days</div>
+          <div class="daily-cards">
+            {% for forecast in daily_forecasts %}
+            <div class="daily-card">
+              <div class="card shadow-sm">
+                <div class="card-body text-center">
+                  <h5 class="card-title">{{ forecast.date }}</h5>
+                  <p class="card-text">Max Temp: {{ forecast.max_temp }} °C</p>
+                  <p class="card-text">Min Temp: {{ forecast.min_temp }} °C</p>
+                  <p class="card-text">Max Wind: {{ forecast.wind_max }} m/s</p>
+                </div>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

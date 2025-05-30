@@ -1,0 +1,6875 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-02-22T22:08:55Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/13488331",
+        "addr:city": "Pasay",
+        "amenity": "fire_station",
+        "name": "Manila International Airport Fire Station",
+        "opening_hours": "24/7",
+        "operator": "Rescue & Firefighting Division, Manila International Airport Authority",
+        "operator:type": "public",
+        "previously": "node:654133087;way:310745068",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0254492,
+              14.5099626
+            ],
+            [
+              121.0250999,
+              14.5097762
+            ],
+            [
+              121.0248901,
+              14.5096642
+            ],
+            [
+              121.0244647,
+              14.5094372
+            ],
+            [
+              121.0246925,
+              14.5084159
+            ],
+            [
+              121.0248189,
+              14.5083738
+            ],
+            [
+              121.0249599,
+              14.5080943
+            ],
+            [
+              121.0249769,
+              14.5080597
+            ],
+            [
+              121.0250165,
+              14.5080429
+            ],
+            [
+              121.0250577,
+              14.50804
+            ],
+            [
+              121.0250995,
+              14.5080575
+            ],
+            [
+              121.0256826,
+              14.5083678
+            ],
+            [
+              121.0262013,
+              14.5086463
+            ],
+            [
+              121.0254492,
+              14.5099626
+            ]
+          ]
+        ]
+      },
+      "id": "relation/13488331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14184142",
+        "addr:city": "Quezon City",
+        "addr:postcode": "1105",
+        "addr:street": "Senator Miriam P. Defensor-Santiago Avenue",
+        "amenity": "fire_station",
+        "mapillary": "298496815585119",
+        "name": "Agham Fire Station",
+        "network": "Quezon City Fire District",
+        "operator": "Bureau of Fire Protection",
+        "operator:type": "public",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0380533,
+              14.6518182
+            ],
+            [
+              121.0384492,
+              14.6517593
+            ],
+            [
+              121.03853,
+              14.6519155
+            ],
+            [
+              121.0380747,
+              14.6519596
+            ],
+            [
+              121.0380533,
+              14.6518182
+            ]
+          ]
+        ]
+      },
+      "id": "relation/14184142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/16122366",
+        "amenity": "fire_station",
+        "mapillary": "1556917684679692",
+        "name": "Pasig City Central Fire Station",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0833485,
+              14.5617462
+            ],
+            [
+              121.0830179,
+              14.5618673
+            ],
+            [
+              121.0829553,
+              14.5616237
+            ],
+            [
+              121.0833042,
+              14.5615467
+            ],
+            [
+              121.0833485,
+              14.5617462
+            ]
+          ]
+        ]
+      },
+      "id": "relation/16122366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/17595906",
+        "addr2:street": "V. Baltazar Street",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "addr:street": "F. Manalo Street",
+        "amenity": "fire_station",
+        "mapillary": "508142260377637",
+        "name": "Pasig City Central Fire Station",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0820472,
+              14.5622248
+            ],
+            [
+              121.0816243,
+              14.56236
+            ],
+            [
+              121.0815279,
+              14.5620984
+            ],
+            [
+              121.0819972,
+              14.5620248
+            ],
+            [
+              121.0820472,
+              14.5622248
+            ]
+          ]
+        ]
+      },
+      "id": "relation/17595906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38317303",
+        "addr:city": "Makati",
+        "addr:postcode": "1203",
+        "addr:street": "Ayala Avenue Extension",
+        "amenity": "fire_station",
+        "building": "public",
+        "building:levels": "3",
+        "name": "Makati Central Fire Station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0153035,
+              14.5629324
+            ],
+            [
+              121.0151945,
+              14.5628449
+            ],
+            [
+              121.0149305,
+              14.5621903
+            ],
+            [
+              121.015037,
+              14.5620268
+            ],
+            [
+              121.0151102,
+              14.5620644
+            ],
+            [
+              121.0153923,
+              14.5627971
+            ],
+            [
+              121.0153035,
+              14.5629324
+            ]
+          ]
+        ]
+      },
+      "id": "way/38317303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46647932",
+        "addr:city": "Quezon City",
+        "addr:street": "Pedro Tuazon Boulevard",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Marilag Fire Sub-station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0679193,
+              14.6228078
+            ],
+            [
+              121.0679202,
+              14.6229498
+            ],
+            [
+              121.0678013,
+              14.6229505
+            ],
+            [
+              121.0678004,
+              14.6228085
+            ],
+            [
+              121.0679193,
+              14.6228078
+            ]
+          ]
+        ]
+      },
+      "id": "way/46647932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/60120706",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "amenity": "fire_station",
+        "branch": "Ortigas/Shaw",
+        "building": "yes",
+        "name": "San Antonio EMS and Fire Station",
+        "operator": "barangay_government"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0590492,
+              14.5774527
+            ],
+            [
+              121.0589198,
+              14.577565
+            ],
+            [
+              121.0588591,
+              14.5774994
+            ],
+            [
+              121.0589886,
+              14.5773872
+            ],
+            [
+              121.0590492,
+              14.5774527
+            ]
+          ]
+        ]
+      },
+      "id": "way/60120706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/64624697",
+        "addr:city": "Muntinlupa",
+        "addr:postcode": "1781",
+        "addr:street": "Market Drive",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Muntinlupa City Fire and Rescue"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0433109,
+              14.41873
+            ],
+            [
+              121.0434138,
+              14.4186178
+            ],
+            [
+              121.043662,
+              14.4188173
+            ],
+            [
+              121.0435471,
+              14.418935
+            ],
+            [
+              121.0433109,
+              14.41873
+            ]
+          ]
+        ]
+      },
+      "id": "way/64624697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85400673",
+        "addr:city": "Quezon City",
+        "addr:housenumber": "8B",
+        "addr:postcode": "1104",
+        "addr:street": "Daily Mirror Street",
+        "amenity": "fire_station",
+        "building": "yes",
+        "fixme": "shape",
+        "name": "Central District Fire and Rescue Volunteer Brigade",
+        "opening_hours": "24/7",
+        "operator": "Central District Fire and Rescue Volunteer Brigade Inc.",
+        "operator:type": "community",
+        "phone": "+632 374 7377"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0306035,
+              14.6436383
+            ],
+            [
+              121.0305281,
+              14.6437813
+            ],
+            [
+              121.0304518,
+              14.6437453
+            ],
+            [
+              121.0305311,
+              14.643602
+            ],
+            [
+              121.0306035,
+              14.6436383
+            ]
+          ]
+        ]
+      },
+      "id": "way/85400673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99454244",
+        "addr:city": "Quezon City",
+        "addr:postcode": "1103",
+        "addr:street": "Scout Reyes Street",
+        "alt_name": "Daza Building",
+        "amenity": "fire_station",
+        "building": "civic",
+        "mapillary": "4279066925528924",
+        "name": "Paligsahan Fire Sub-Station",
+        "network": "Quezon City Fire District",
+        "operator:type": "public",
+        "phone": "+63 2 2 3414 5903"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0250378,
+              14.6295477
+            ],
+            [
+              121.0249967,
+              14.6293632
+            ],
+            [
+              121.0251248,
+              14.6293365
+            ],
+            [
+              121.0251658,
+              14.6295211
+            ],
+            [
+              121.0250378,
+              14.6295477
+            ]
+          ]
+        ]
+      },
+      "id": "way/99454244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106625089",
+        "amenity": "fire_station",
+        "building": "yes",
+        "source:outline": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0637591,
+              14.6657068
+            ],
+            [
+              121.0638315,
+              14.6658855
+            ],
+            [
+              121.0636767,
+              14.6659433
+            ],
+            [
+              121.0636002,
+              14.6657676
+            ],
+            [
+              121.0637591,
+              14.6657068
+            ]
+          ]
+        ]
+      },
+      "id": "way/106625089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/112551102",
+        "addr:city": "Mandaluyong",
+        "addr:province": "Metro Manila",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Mandaluyong Fire Department"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0331409,
+              14.5774409
+            ],
+            [
+              121.0330573,
+              14.5773639
+            ],
+            [
+              121.0331662,
+              14.5772534
+            ],
+            [
+              121.0332497,
+              14.5773305
+            ],
+            [
+              121.0331409,
+              14.5774409
+            ]
+          ]
+        ]
+      },
+      "id": "way/112551102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/149881951",
+        "addr:city": "Navotas",
+        "addr:postcode": "1485",
+        "addr:street": "M. Naval Street",
+        "amenity": "fire_station",
+        "building": "yes",
+        "mapillary": "218531039772666",
+        "name": "Navotas City Fire Station",
+        "phone": "+63 2 281 0854"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9479549,
+              14.6569007
+            ],
+            [
+              120.9479963,
+              14.6567837
+            ],
+            [
+              120.9481141,
+              14.6568227
+            ],
+            [
+              120.9480726,
+              14.6569398
+            ],
+            [
+              120.9479549,
+              14.6569007
+            ]
+          ]
+        ]
+      },
+      "id": "way/149881951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161306411",
+        "addr:city": "Manila",
+        "addr:postcode": "1012",
+        "addr:province": "Metro Manila",
+        "addr:street": "Plaza Hernandez",
+        "amenity": "fire_station",
+        "building": "public",
+        "name": "Tondo Fire Station",
+        "network": "Manila Fire District",
+        "opening_hours": "24/7",
+        "operator:type": "public",
+        "phone": "+63 2 245 3403",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9664341,
+              14.6076464
+            ],
+            [
+              120.9664693,
+              14.6075423
+            ],
+            [
+              120.9665282,
+              14.6075609
+            ],
+            [
+              120.9665401,
+              14.6075257
+            ],
+            [
+              120.9666771,
+              14.607569
+            ],
+            [
+              120.9666301,
+              14.6077084
+            ],
+            [
+              120.9664341,
+              14.6076464
+            ]
+          ]
+        ]
+      },
+      "id": "way/161306411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179222147",
+        "addr:city": "Manila",
+        "addr:postcode": "1005",
+        "addr:province": "Metro Manila",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Malacañang Fire Station",
+        "network": "Manila Fire District",
+        "opening_hours": "24/7",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9926913,
+              14.5931057
+            ],
+            [
+              120.9926233,
+              14.5930398
+            ],
+            [
+              120.9926922,
+              14.5929732
+            ],
+            [
+              120.9927602,
+              14.593039
+            ],
+            [
+              120.9926913,
+              14.5931057
+            ]
+          ]
+        ]
+      },
+      "id": "way/179222147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179239584",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "addr:street": "Legarda Street",
+        "alt_name": "Manila Fire District Station № 2",
+        "amenity": "fire_station",
+        "name": "Tanduay Fire Station",
+        "network": "Manila Fire District",
+        "opening_hours": "24/7",
+        "operator:type": "public",
+        "phone": "+632 313 0384",
+        "roof:shape": "hipped"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9894602,
+              14.5984861
+            ],
+            [
+              120.9894848,
+              14.5981524
+            ],
+            [
+              120.9897024,
+              14.5981216
+            ],
+            [
+              120.9898173,
+              14.5983863
+            ],
+            [
+              120.9897617,
+              14.5984026
+            ],
+            [
+              120.9896768,
+              14.5984384
+            ],
+            [
+              120.9895595,
+              14.5984629
+            ],
+            [
+              120.9894602,
+              14.5984861
+            ]
+          ]
+        ]
+      },
+      "id": "way/179239584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179251359",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "building:levels": "1",
+        "name": "Arroceros Fire Sub-station",
+        "network": "Manila Fire District",
+        "opening_hours": "24/7",
+        "operator:type": "public",
+        "roof:shape": "hipped"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9817916,
+              14.5932499
+            ],
+            [
+              120.9818169,
+              14.5930747
+            ],
+            [
+              120.9820301,
+              14.5931035
+            ],
+            [
+              120.9820048,
+              14.5932788
+            ],
+            [
+              120.9817916,
+              14.5932499
+            ]
+          ]
+        ]
+      },
+      "id": "way/179251359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/180783438",
+        "addr:city": "Manila",
+        "addr:district": "Quiapo",
+        "addr:province": "Metro Manila",
+        "addr:street": "Carlos Palanca Street",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "24",
+        "contact:phone": "+632 624 6253;+632 522 2222",
+        "name": "Central Quiapo Filipino-Chinese Volunteer Fire Brigade",
+        "name:zh-Hant": "溪亞婆區菲華防火會",
+        "opening_hours": "24/7",
+        "operator": "Central Quiapo Filipino-Chinese Volunteer Fire Brigade, Inc.",
+        "operator:type": "community",
+        "phone": "+63 2 522 2222",
+        "short_name": "Central Quiapo VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9823958,
+              14.5975274
+            ],
+            [
+              120.98234,
+              14.5975968
+            ],
+            [
+              120.9822544,
+              14.5975234
+            ],
+            [
+              120.9823224,
+              14.5974691
+            ],
+            [
+              120.9823958,
+              14.5975274
+            ]
+          ]
+        ]
+      },
+      "id": "way/180783438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183101404",
+        "addr:city": "Manila",
+        "addr:postcode": "1003",
+        "addr:province": "Metro Manila",
+        "addr:street": "Valeriano Fugoso",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "1",
+        "opening_hours": "24/7",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9826635,
+              14.6076507
+            ],
+            [
+              120.9826544,
+              14.6075081
+            ],
+            [
+              120.9829491,
+              14.6074907
+            ],
+            [
+              120.9829582,
+              14.6076333
+            ],
+            [
+              120.9826635,
+              14.6076507
+            ]
+          ]
+        ]
+      },
+      "id": "way/183101404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183729632",
+        "addr:city": "Manila",
+        "addr:housenumber": "296",
+        "addr:postcode": "1010",
+        "addr:province": "Metro Manila",
+        "addr:street": "San Fernando Street",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "San Nicolas Fire Station",
+        "network": "Manila Fire District",
+        "opening_hours": "24/7",
+        "operator": "Bureau of Fire Protection Manila Fire District",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9706558,
+              14.5971758
+            ],
+            [
+              120.9706635,
+              14.5973493
+            ],
+            [
+              120.970583,
+              14.5973526
+            ],
+            [
+              120.9705361,
+              14.5973546
+            ],
+            [
+              120.9704759,
+              14.5973571
+            ],
+            [
+              120.9704681,
+              14.5971837
+            ],
+            [
+              120.9706558,
+              14.5971758
+            ]
+          ]
+        ]
+      },
+      "id": "way/183729632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237757069",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Karuhatan Fire Station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9776585,
+              14.6894241
+            ],
+            [
+              120.9777128,
+              14.6895019
+            ],
+            [
+              120.9776583,
+              14.6895383
+            ],
+            [
+              120.9775902,
+              14.6894405
+            ],
+            [
+              120.9776585,
+              14.6894241
+            ]
+          ]
+        ]
+      },
+      "id": "way/237757069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243039640",
+        "addr:city": "San Juan",
+        "addr:postcode": "1500",
+        "addr:street": "Pinaglabanan Street",
+        "amenity": "fire_station",
+        "building:levels": "2",
+        "contact:phone": "+632-725-2079",
+        "name": "San Juan Central Fire Station",
+        "previously": "node:255063812",
+        "razed:building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0325633,
+              14.6047944
+            ],
+            [
+              121.0324541,
+              14.6050332
+            ],
+            [
+              121.0323147,
+              14.6049735
+            ],
+            [
+              121.0323973,
+              14.6047927
+            ],
+            [
+              121.0324142,
+              14.6048
+            ],
+            [
+              121.0324407,
+              14.604742
+            ],
+            [
+              121.0325633,
+              14.6047944
+            ]
+          ]
+        ]
+      },
+      "id": "way/243039640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256436315",
+        "addr:city": "Marikina",
+        "addr:postcode": "1800",
+        "addr:street": "Shoe Avenue",
+        "amenity": "fire_station",
+        "building": "yes",
+        "facebook": "https://www.facebook.com/MarikinaFireVolunteer",
+        "name": "Marikina Filipino-Chinese Fire Brigade Volunteer",
+        "name:en": "Marikina Filipino-Chinese Fire Brigade Volunteers",
+        "name:zh": "嗎利僅那菲華防火會",
+        "operator": "Marikina Filipino-Chinese Fire Prevention Association, Inc.",
+        "operator:type": "community"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0974512,
+              14.6330599
+            ],
+            [
+              121.0974686,
+              14.6329448
+            ],
+            [
+              121.0976083,
+              14.6329646
+            ],
+            [
+              121.0975908,
+              14.6330798
+            ],
+            [
+              121.0974512,
+              14.6330599
+            ]
+          ]
+        ]
+      },
+      "id": "way/256436315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262148298",
+        "addr:city": "Quezon City",
+        "addr:street": "Road 15",
+        "addr:zip": "1100",
+        "amenity": "fire_station",
+        "building": "yes",
+        "garmin:description": "fire station",
+        "name": "Bahay Toro Fire Station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0209772,
+              14.6644892
+            ],
+            [
+              121.0212,
+              14.6645384
+            ],
+            [
+              121.0211734,
+              14.6646511
+            ],
+            [
+              121.0209506,
+              14.664602
+            ],
+            [
+              121.0209772,
+              14.6644892
+            ]
+          ]
+        ]
+      },
+      "id": "way/262148298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263477357",
+        "addr:city": "Quezon City",
+        "addr:postcode": "1111",
+        "addr:street": "Ermin Garcia Street",
+        "amenity": "fire_station",
+        "building": "public",
+        "building:levels": "3",
+        "name": "Pinagkaisahan Fire Sub-Station",
+        "network": "Quezon City Fire District",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0460789,
+              14.6280107
+            ],
+            [
+              121.0461199,
+              14.6279226
+            ],
+            [
+              121.0463427,
+              14.6280197
+            ],
+            [
+              121.0463119,
+              14.628086
+            ],
+            [
+              121.046167,
+              14.6280228
+            ],
+            [
+              121.0461568,
+              14.6280447
+            ],
+            [
+              121.0460789,
+              14.6280107
+            ]
+          ]
+        ]
+      },
+      "id": "way/263477357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263578476",
+        "addr:postcode": "1100",
+        "addr:street": "Capinpin Avenue",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "GHQ Fire Station",
+        "operator": "General Headquarters, AFP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0583864,
+              14.6103848
+            ],
+            [
+              121.0584346,
+              14.6101831
+            ],
+            [
+              121.0587138,
+              14.6102456
+            ],
+            [
+              121.0586656,
+              14.6104473
+            ],
+            [
+              121.0585977,
+              14.6104321
+            ],
+            [
+              121.058602,
+              14.6104143
+            ],
+            [
+              121.0584759,
+              14.6103861
+            ],
+            [
+              121.0584717,
+              14.6104039
+            ],
+            [
+              121.0583864,
+              14.6103848
+            ]
+          ]
+        ]
+      },
+      "id": "way/263578476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/266413077",
+        "addr:city": "Caloocan",
+        "addr:street": "Samson Road",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Caloocan City Central Fire Station",
+        "network": "Fire District 2",
+        "opening_hours": "24/7",
+        "operator:type": "public",
+        "phone": "+63 2 5310 6527;+63 2 8362 4037"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9744091,
+              14.657911
+            ],
+            [
+              120.9742637,
+              14.657902
+            ],
+            [
+              120.9742779,
+              14.6576876
+            ],
+            [
+              120.9743506,
+              14.6576921
+            ],
+            [
+              120.9744233,
+              14.6576966
+            ],
+            [
+              120.9744091,
+              14.657911
+            ]
+          ]
+        ]
+      },
+      "id": "way/266413077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/282789967",
+        "addr:city": "Quezon City",
+        "addr:postcode": "1110",
+        "addr:street": "E. Rodriguez Jr. Avenue",
+        "alt_name": "Quezon City Fire Station 3",
+        "amenity": "fire_station",
+        "building": "public",
+        "building:levels": "2",
+        "name": "Eastwood Fire Station",
+        "network": "Quezon City Fire District",
+        "operator:type": "public",
+        "previously": "node:622397752"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0766259,
+              14.6101476
+            ],
+            [
+              121.0765633,
+              14.6100939
+            ],
+            [
+              121.076624,
+              14.6100278
+            ],
+            [
+              121.0766841,
+              14.6099624
+            ],
+            [
+              121.0767466,
+              14.6100161
+            ],
+            [
+              121.0766259,
+              14.6101476
+            ]
+          ]
+        ]
+      },
+      "id": "way/282789967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284760829",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.1016083,
+              14.7160868
+            ],
+            [
+              121.1017005,
+              14.7160001
+            ],
+            [
+              121.1017321,
+              14.7160315
+            ],
+            [
+              121.1016399,
+              14.7161182
+            ],
+            [
+              121.1016083,
+              14.7160868
+            ]
+          ]
+        ]
+      },
+      "id": "way/284760829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288009987",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "addr:street": "Rizal Avenue",
+        "amenity": "fire_station",
+        "building": "public",
+        "building:levels": "4",
+        "name": "San Lazaro Fire Station",
+        "opening_hours": "24/7",
+        "operator": "Bureau of Fire Protection",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.982242,
+              14.6130824
+            ],
+            [
+              120.982219,
+              14.6127897
+            ],
+            [
+              120.9824338,
+              14.6127739
+            ],
+            [
+              120.9824568,
+              14.6130667
+            ],
+            [
+              120.982242,
+              14.6130824
+            ]
+          ]
+        ]
+      },
+      "id": "way/288009987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/291338338",
+        "addr:street": "J.P. Rizal",
+        "alt_name": "Makati Fire Station 8",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Poblacion Fire Sub-station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0331018,
+              14.5672616
+            ],
+            [
+              121.0330421,
+              14.5672
+            ],
+            [
+              121.0331156,
+              14.5671333
+            ],
+            [
+              121.0331753,
+              14.5671949
+            ],
+            [
+              121.0331018,
+              14.5672616
+            ]
+          ]
+        ]
+      },
+      "id": "way/291338338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/304326446",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Barangay 185 Fire Department"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0796653,
+              14.7696414
+            ],
+            [
+              121.0796189,
+              14.7695432
+            ],
+            [
+              121.0797066,
+              14.7695044
+            ],
+            [
+              121.0797102,
+              14.7695121
+            ],
+            [
+              121.0797531,
+              14.7696026
+            ],
+            [
+              121.0796653,
+              14.7696414
+            ]
+          ]
+        ]
+      },
+      "id": "way/304326446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309851612",
+        "addr:city": "Makati",
+        "addr:postcode": "1233",
+        "addr:street": "Evangelista",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Makati Fire Sub Station 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0120755,
+              14.541554
+            ],
+            [
+              121.0119821,
+              14.5415426
+            ],
+            [
+              121.0119845,
+              14.5415184
+            ],
+            [
+              121.0120078,
+              14.5413713
+            ],
+            [
+              121.0120203,
+              14.5413571
+            ],
+            [
+              121.0120434,
+              14.5413598
+            ],
+            [
+              121.0120501,
+              14.5413794
+            ],
+            [
+              121.0120719,
+              14.5415305
+            ],
+            [
+              121.0120755,
+              14.541554
+            ]
+          ]
+        ]
+      },
+      "id": "way/309851612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/315605328",
+        "addr:street": "J. P. Rizal Street Extension",
+        "amenity": "fire_station",
+        "building": "civic",
+        "fixme": "name"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0635261,
+              14.5491619
+            ],
+            [
+              121.063397,
+              14.5491335
+            ],
+            [
+              121.0634231,
+              14.5490225
+            ],
+            [
+              121.0635522,
+              14.5490509
+            ],
+            [
+              121.0635261,
+              14.5491619
+            ]
+          ]
+        ]
+      },
+      "id": "way/315605328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319270975",
+        "addr:city": "San Juan",
+        "addr:street": "Annapolis Street",
+        "addr:village": "Greenhills",
+        "amenity": "fire_station",
+        "building": "public",
+        "building:levels": "2",
+        "contact:phone": "+632-899-3177",
+        "mapillary": "139425858175558",
+        "name": "Greenhills Fire Sub-station 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0505272,
+              14.6031254
+            ],
+            [
+              121.0504718,
+              14.6031661
+            ],
+            [
+              121.0503894,
+              14.6031345
+            ],
+            [
+              121.0504775,
+              14.6030647
+            ],
+            [
+              121.0505272,
+              14.6031254
+            ]
+          ]
+        ]
+      },
+      "id": "way/319270975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331777156",
+        "addr:city": "Manila",
+        "addr:postcode": "1002",
+        "addr:province": "Metro Manila",
+        "addr:street": "Andres Soriano Jr.",
+        "amenity": "fire_station",
+        "building": "public",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "height": "12",
+        "name": "Intramuros Fire Station",
+        "network": "Manila Fire District",
+        "opening_hours": "24/7",
+        "operator:type": "public",
+        "phone": "+63 2 5301 1101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9722644,
+              14.5924166
+            ],
+            [
+              120.972177,
+              14.5923384
+            ],
+            [
+              120.9722036,
+              14.5923086
+            ],
+            [
+              120.9719689,
+              14.5920986
+            ],
+            [
+              120.9720719,
+              14.5919835
+            ],
+            [
+              120.972394,
+              14.5922718
+            ],
+            [
+              120.9722644,
+              14.5924166
+            ]
+          ]
+        ]
+      },
+      "id": "way/331777156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/357052645",
+        "addr:barangay": "Addition Hills",
+        "addr:city": "San Juan",
+        "addr:postcode": "1500",
+        "addr:province": "Metro Manila",
+        "addr:street": "Hoover Street",
+        "alt_name": "Addition Hills Fire Sub-station 3",
+        "amenity": "fire_station",
+        "building": "yes",
+        "contact:phone": "+632-497-5012;+632-513-7798",
+        "mapillary": "757929044917310",
+        "name": "Hoover Fire Sub-station 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0335107,
+              14.5920329
+            ],
+            [
+              121.033418,
+              14.5919059
+            ],
+            [
+              121.0334801,
+              14.5918635
+            ],
+            [
+              121.0335727,
+              14.5919905
+            ],
+            [
+              121.0335107,
+              14.5920329
+            ]
+          ]
+        ]
+      },
+      "id": "way/357052645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/357662481",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "San Juan Falcon Fire Rescue",
+        "official_name": "San Juan Falcon Fire Rescue, Incorporated",
+        "operator:type": "ngo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0299282,
+              14.6088195
+            ],
+            [
+              121.0299593,
+              14.6087189
+            ],
+            [
+              121.0300333,
+              14.608759
+            ],
+            [
+              121.0299522,
+              14.6088347
+            ],
+            [
+              121.0299282,
+              14.6088195
+            ]
+          ]
+        ]
+      },
+      "id": "way/357662481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371679706",
+        "addr:street": "Nueve de Pebrero Street",
+        "amenity": "fire_station",
+        "mapillary": "1967027466781260",
+        "name": "Mauway Fire Substation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0440145,
+              14.5803774
+            ],
+            [
+              121.0439987,
+              14.5802826
+            ],
+            [
+              121.0441967,
+              14.5802517
+            ],
+            [
+              121.0442125,
+              14.5803465
+            ],
+            [
+              121.0440145,
+              14.5803774
+            ]
+          ]
+        ]
+      },
+      "id": "way/371679706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/401895875",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "addr:street": "Santa Rosa Street",
+        "amenity": "fire_station",
+        "building": "civic",
+        "name": "Kapitolyo Sub-station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0594557,
+              14.5716278
+            ],
+            [
+              121.0594869,
+              14.5715697
+            ],
+            [
+              121.0596391,
+              14.5716463
+            ],
+            [
+              121.0596079,
+              14.5717044
+            ],
+            [
+              121.0594557,
+              14.5716278
+            ]
+          ]
+        ]
+      },
+      "id": "way/401895875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/409310681",
+        "addr:city": "Manila",
+        "addr:street": "Juan Luna Street",
+        "amenity": "fire_station",
+        "building": "civic",
+        "mapillary": "1001086330500741",
+        "name": "Gagalangin Fire Station",
+        "network": "Manila Fire District",
+        "official_name": "Gagalang Fire Sub-station",
+        "opening_hours": "24/7",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.972959,
+              14.624702
+            ],
+            [
+              120.9729172,
+              14.6245243
+            ],
+            [
+              120.9731422,
+              14.6244748
+            ],
+            [
+              120.9731608,
+              14.624554
+            ],
+            [
+              120.9730681,
+              14.6245744
+            ],
+            [
+              120.9730912,
+              14.6246729
+            ],
+            [
+              120.972959,
+              14.624702
+            ]
+          ]
+        ]
+      },
+      "id": "way/409310681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/416495997",
+        "addr:city": "Manila",
+        "addr:district": "Santa Mesa",
+        "addr:postcode": "1016",
+        "addr:province": "Metro Manila",
+        "amenity": "fire_station",
+        "name": "Bacood Fire Station",
+        "network": "Manila Fire District",
+        "opening_hours": "24/7",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0198744,
+              14.5911739
+            ],
+            [
+              121.0198207,
+              14.5911214
+            ],
+            [
+              121.0199616,
+              14.5909877
+            ],
+            [
+              121.0200957,
+              14.5911149
+            ],
+            [
+              121.0200279,
+              14.5911759
+            ],
+            [
+              121.0199515,
+              14.5911058
+            ],
+            [
+              121.0198744,
+              14.5911739
+            ]
+          ]
+        ]
+      },
+      "id": "way/416495997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/416495999",
+        "addr:city": "Manila",
+        "addr:postcode": "1000",
+        "addr:province": "Metro Manila",
+        "addr:street": "San Marcelino Street",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "historic": "building",
+        "name": "Paco Fire Sub-station",
+        "network": "Manila Fire District",
+        "opening_hours": "24/7",
+        "operator": "Bureau of Fire Protection",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9881837,
+              14.5807177
+            ],
+            [
+              120.9880944,
+              14.5805492
+            ],
+            [
+              120.9882712,
+              14.5804614
+            ],
+            [
+              120.9883606,
+              14.5806299
+            ],
+            [
+              120.9881837,
+              14.5807177
+            ]
+          ]
+        ]
+      },
+      "id": "way/416495999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419618355",
+        "addr:city": "Mandaluyong",
+        "addr:postcode": "1550",
+        "addr:province": "Metro Manila",
+        "addr:street": "Mayflower Street",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Greenfield District Fire Sub-station",
+        "old_name": "Edsa Fire Sub-station",
+        "previously": "node:255063814"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0535398,
+              14.5777484
+            ],
+            [
+              121.0534076,
+              14.5778582
+            ],
+            [
+              121.0533477,
+              14.5777906
+            ],
+            [
+              121.0534799,
+              14.5776808
+            ],
+            [
+              121.0535398,
+              14.5777484
+            ]
+          ]
+        ]
+      },
+      "id": "way/419618355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/421575914",
+        "addr:city": "Manila",
+        "addr:district": "Binondo",
+        "addr:street": "Santo Cristo Street",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "4",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "35",
+        "contact:phone": "+632 243 3474",
+        "name": "South San Nicolas Volunteer Fire Brigade",
+        "name:zh-Hant": "仙尼龜拉示南區志願消防隊",
+        "operator": "South San Nicolas Fire Prevention Association",
+        "operator:type": "community",
+        "short_name": "So. San Nicolas VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9732582,
+              14.5992796
+            ],
+            [
+              120.9733193,
+              14.599161
+            ],
+            [
+              120.9734296,
+              14.5992143
+            ],
+            [
+              120.9733685,
+              14.5993328
+            ],
+            [
+              120.9732582,
+              14.5992796
+            ]
+          ]
+        ]
+      },
+      "id": "way/421575914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/421590962",
+        "amenity": "fire_station",
+        "building": "public",
+        "contact:phone": "+632 721 6655",
+        "name": "Agora Fire Station",
+        "official_name": "San Juan Fire Sub-station № 2",
+        "operator": "Bureau of Fire Protection"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0230982,
+              14.6061796
+            ],
+            [
+              121.0231408,
+              14.6061265
+            ],
+            [
+              121.0232343,
+              14.6061968
+            ],
+            [
+              121.0231917,
+              14.6062499
+            ],
+            [
+              121.0230982,
+              14.6061796
+            ]
+          ]
+        ]
+      },
+      "id": "way/421590962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/425716186",
+        "addr:city": "Caloocan",
+        "addr:postcode": "1402",
+        "addr:street": "NLEX",
+        "amenity": "fire_station",
+        "building": "public",
+        "emergency": "ambulance_station",
+        "name": "Caloocan EMS"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0008891,
+              14.6779972
+            ],
+            [
+              121.0008864,
+              14.6779233
+            ],
+            [
+              121.0009297,
+              14.6779218
+            ],
+            [
+              121.0009324,
+              14.6779958
+            ],
+            [
+              121.0008891,
+              14.6779972
+            ]
+          ]
+        ]
+      },
+      "id": "way/425716186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/432979411",
+        "addr:city": "Valenzuela",
+        "addr:street": "MacArthur Highway",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Valenzuela City Central Fire Station",
+        "previously": "node:3264740728"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9687032,
+              14.6930178
+            ],
+            [
+              120.9688356,
+              14.6929801
+            ],
+            [
+              120.9689057,
+              14.6932099
+            ],
+            [
+              120.9687733,
+              14.6932477
+            ],
+            [
+              120.9687032,
+              14.6930178
+            ]
+          ]
+        ]
+      },
+      "id": "way/432979411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/433235633",
+        "addr:city": "Parañaque",
+        "addr:postcode": "1700",
+        "addr:street": "Doctor A. Santos Avenue",
+        "amenity": "fire_station",
+        "building": "public",
+        "name": "Parañaque Central Fire Station",
+        "network": "Southern Fire District",
+        "operator:type": "public",
+        "previously": "node:650005383"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9915111,
+              14.4865606
+            ],
+            [
+              120.9916918,
+              14.4865388
+            ],
+            [
+              120.9917031,
+              14.4866263
+            ],
+            [
+              120.9915223,
+              14.4866481
+            ],
+            [
+              120.9915111,
+              14.4865606
+            ]
+          ]
+        ]
+      },
+      "id": "way/433235633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436155179",
+        "addr:street": "F. Pasco Avenue",
+        "amenity": "fire_station",
+        "building": "civic",
+        "mapillary": "958637808241562",
+        "name": "Santolan Fire Station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0862846,
+              14.6162788
+            ],
+            [
+              121.0864451,
+              14.6163142
+            ],
+            [
+              121.0864323,
+              14.6163687
+            ],
+            [
+              121.0864116,
+              14.6163641
+            ],
+            [
+              121.0864013,
+              14.616408
+            ],
+            [
+              121.0862614,
+              14.6163771
+            ],
+            [
+              121.0862846,
+              14.6162788
+            ]
+          ]
+        ]
+      },
+      "id": "way/436155179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437145272",
+        "addr2:street": "Road 5",
+        "addr:city": "Manila",
+        "addr:district": "Pandacan",
+        "addr:postcode": "1011",
+        "addr:street": "L. Certeza Street",
+        "amenity": "fire_station",
+        "building": "public",
+        "capacity:fire_truck:mini_pumper": "1",
+        "contact:phone": "+63 2 8563 1074;+63 2 5309 9645",
+        "name": "Pandacan Fire Station",
+        "network": "Manila Fire District",
+        "official_name": "Pandacan Fire Sub-station",
+        "operator": "Bureau of Fire Protection",
+        "operator:type": "public",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0119575,
+              14.5920512
+            ],
+            [
+              121.0118763,
+              14.5920127
+            ],
+            [
+              121.0118908,
+              14.5919854
+            ],
+            [
+              121.0119052,
+              14.591958
+            ],
+            [
+              121.0119834,
+              14.5920001
+            ],
+            [
+              121.0119575,
+              14.5920512
+            ]
+          ]
+        ]
+      },
+      "id": "way/437145272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437293739",
+        "addr:city": "Manila",
+        "addr:district": "Santa Mesa",
+        "addr:postcode": "1016",
+        "addr:province": "Metro Manila",
+        "addr:street": "Magsaysay Boulevard",
+        "amenity": "fire_station",
+        "name": "Santa Mesa Fire Station",
+        "network": "Manila Fire District",
+        "opening_hours": "24/7",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0081178,
+              14.6016878
+            ],
+            [
+              121.0081876,
+              14.601606
+            ],
+            [
+              121.0082964,
+              14.6016076
+            ],
+            [
+              121.008283,
+              14.6018097
+            ],
+            [
+              121.0082019,
+              14.6018072
+            ],
+            [
+              121.0081169,
+              14.6018046
+            ],
+            [
+              121.0081178,
+              14.6016878
+            ]
+          ]
+        ]
+      },
+      "id": "way/437293739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445281181",
+        "addr:city": "Makati",
+        "addr:postcode": "1204",
+        "addr:street": "H. Santos Street",
+        "alt_name": "Makati City Fire Station 2",
+        "amenity": "fire_station",
+        "building": "public",
+        "name": "Tejeros Fire Sub-station 9",
+        "opening_hours": "24/7",
+        "previously": "node:255064124"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0140667,
+              14.5744027
+            ],
+            [
+              121.0141942,
+              14.5744464
+            ],
+            [
+              121.0141606,
+              14.5745381
+            ],
+            [
+              121.0141139,
+              14.574522
+            ],
+            [
+              121.0140331,
+              14.5744943
+            ],
+            [
+              121.0140667,
+              14.5744027
+            ]
+          ]
+        ]
+      },
+      "id": "way/445281181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455200223",
+        "addr:city": "Muntinlupa",
+        "addr:street": "West Service Road",
+        "amenity": "fire_station",
+        "name": "Filinvest City Fire Station",
+        "operator": "Filinvest City"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0431249,
+              14.4228027
+            ],
+            [
+              121.0431153,
+              14.4229981
+            ],
+            [
+              121.0430732,
+              14.4229757
+            ],
+            [
+              121.0430183,
+              14.4229465
+            ],
+            [
+              121.042813,
+              14.4229311
+            ],
+            [
+              121.0427264,
+              14.4229637
+            ],
+            [
+              121.0427183,
+              14.4228041
+            ],
+            [
+              121.0431249,
+              14.4228027
+            ]
+          ]
+        ]
+      },
+      "id": "way/455200223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/477634159",
+        "addr:city": "Marikina",
+        "addr:postcode": "1809",
+        "addr:street": "General B. G. Molina Street",
+        "amenity": "fire_station",
+        "building": "public",
+        "name": "Parang Fire Station",
+        "network": "Fire District 4",
+        "operator:type": "public",
+        "previously": "node:255057444"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.1082301,
+              14.657572
+            ],
+            [
+              121.1081888,
+              14.6575577
+            ],
+            [
+              121.1080857,
+              14.6575221
+            ],
+            [
+              121.1081188,
+              14.6574323
+            ],
+            [
+              121.1082251,
+              14.6574691
+            ],
+            [
+              121.1082632,
+              14.6574822
+            ],
+            [
+              121.1082301,
+              14.657572
+            ]
+          ]
+        ]
+      },
+      "id": "way/477634159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482183935",
+        "addr:city": "Manila",
+        "addr:housenumber": "964",
+        "addr:postcode": "1006",
+        "addr:street": "Sabino Padilla",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "North Binondo Fire Prevention Association",
+        "name:zh-Hant": "北岷倫洛廿八區防火會",
+        "operator": "North Binondo Fire Prevention Association Inc."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9775255,
+              14.6034998
+            ],
+            [
+              120.977632,
+              14.6035014
+            ],
+            [
+              120.9776353,
+              14.6035544
+            ],
+            [
+              120.9775295,
+              14.6035734
+            ],
+            [
+              120.9775255,
+              14.6034998
+            ]
+          ]
+        ]
+      },
+      "id": "way/482183935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/499449038",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Central San Juan Fire Volunteers",
+        "operator:type": "ngo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0312915,
+              14.6106694
+            ],
+            [
+              121.0313608,
+              14.6105266
+            ],
+            [
+              121.0314584,
+              14.610571
+            ],
+            [
+              121.031389,
+              14.6107137
+            ],
+            [
+              121.0312915,
+              14.6106694
+            ]
+          ]
+        ]
+      },
+      "id": "way/499449038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/521841545",
+        "addr:city": "Quezon City",
+        "addr:street": "Tatlong Hari",
+        "amenity": "fire_station",
+        "name": "Lagro Fire Sub-Station",
+        "network": "Quezon City Fire District",
+        "operator:type": "public",
+        "previously": "node:4429765089"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0683115,
+              14.7224039
+            ],
+            [
+              121.0683101,
+              14.7226134
+            ],
+            [
+              121.0681607,
+              14.7226123
+            ],
+            [
+              121.0681581,
+              14.7224015
+            ],
+            [
+              121.0683115,
+              14.7224039
+            ]
+          ]
+        ]
+      },
+      "id": "way/521841545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/525389231",
+        "addr:city": "Quezon City",
+        "addr:district": "District I",
+        "addr:housenumber": "325",
+        "addr:neighbourhood": "San Antonio",
+        "addr:province": "Metro Manila",
+        "addr:street": "Fernando Poe Jr. Avenue",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "garmin:description": "fire station",
+        "name": "San Antonio Fire Station",
+        "old_addr:street": "Roosevelt Avenue",
+        "operator:type": "community",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0187693,
+              14.6547418
+            ],
+            [
+              121.0187391,
+              14.6546327
+            ],
+            [
+              121.0188354,
+              14.6546077
+            ],
+            [
+              121.0188656,
+              14.6547168
+            ],
+            [
+              121.0187693,
+              14.6547418
+            ]
+          ]
+        ]
+      },
+      "id": "way/525389231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/526998937",
+        "addr:street": "Malac Street",
+        "amenity": "fire_station",
+        "building": "yes",
+        "mapillary": "694389618266368",
+        "name": "Masambong Fire Sub-Station",
+        "previously": "node:3116097753"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0120458,
+              14.6402689
+            ],
+            [
+              121.0121445,
+              14.6401201
+            ],
+            [
+              121.0122457,
+              14.6401829
+            ],
+            [
+              121.012147,
+              14.6403317
+            ],
+            [
+              121.0120458,
+              14.6402689
+            ]
+          ]
+        ]
+      },
+      "id": "way/526998937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546737056",
+        "addr:city": "Malabon",
+        "addr:postcode": "1470",
+        "addr:street": "Governor Wenceslao Pascual Avenue",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Potrero Fire Station",
+        "operator": "Bureau of Fire Protection - Malabon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9759823,
+              14.6692529
+            ],
+            [
+              120.9758636,
+              14.6690443
+            ],
+            [
+              120.9760445,
+              14.6689479
+            ],
+            [
+              120.9761633,
+              14.6691564
+            ],
+            [
+              120.9759823,
+              14.6692529
+            ]
+          ]
+        ]
+      },
+      "id": "way/546737056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/553039440",
+        "addr:city": "Muntinlupa",
+        "addr:postcode": "1774",
+        "addr:street": "Susana Heights Road",
+        "amenity": "fire_station",
+        "building": "public",
+        "building:levels": "2",
+        "name": "Muntinlupa Bureau of Fire Protection",
+        "source": "Schadow1 Expeditions"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0419412,
+              14.3835771
+            ],
+            [
+              121.0418691,
+              14.3832877
+            ],
+            [
+              121.0420239,
+              14.3832515
+            ],
+            [
+              121.0421489,
+              14.3837534
+            ],
+            [
+              121.042049,
+              14.3837768
+            ],
+            [
+              121.0419961,
+              14.3835643
+            ],
+            [
+              121.0419412,
+              14.3835771
+            ]
+          ]
+        ]
+      },
+      "id": "way/553039440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/579108501",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Better Living Fire House"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0085543,
+              14.4840683
+            ],
+            [
+              121.0086868,
+              14.4840124
+            ],
+            [
+              121.0088036,
+              14.484272
+            ],
+            [
+              121.0086711,
+              14.4843279
+            ],
+            [
+              121.0085543,
+              14.4840683
+            ]
+          ]
+        ]
+      },
+      "id": "way/579108501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/655506003",
+        "addr2:street": "Tupas Street",
+        "addr:street": "Leveriza Street",
+        "amenity": "fire_station",
+        "building": "yes",
+        "mapillary": "1004358586840161",
+        "name": "Pasay Volunteers Fire Brigade",
+        "operator": "Pasay Filipino Chinese Chamber of Commerce",
+        "operator:type": "ngo",
+        "previously": "node:24797683"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9954918,
+              14.5485901
+            ],
+            [
+              120.9955218,
+              14.5484771
+            ],
+            [
+              120.9957953,
+              14.5485453
+            ],
+            [
+              120.9957652,
+              14.5486582
+            ],
+            [
+              120.9954918,
+              14.5485901
+            ]
+          ]
+        ]
+      },
+      "id": "way/655506003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687057691",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "emergency": "official",
+        "name": "San Dionisio Fire Department"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9853709,
+              14.4863405
+            ],
+            [
+              120.9852348,
+              14.4864117
+            ],
+            [
+              120.9851814,
+              14.4863161
+            ],
+            [
+              120.9853175,
+              14.4862449
+            ],
+            [
+              120.9853709,
+              14.4863405
+            ]
+          ]
+        ]
+      },
+      "id": "way/687057691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/699530379",
+        "addr:city": "Makati",
+        "addr:postcode": "1204",
+        "addr:street": "Archimedes Street",
+        "alt_name": "Station 5",
+        "amenity": "fire_station",
+        "building": "public",
+        "building:levels": "3",
+        "building:part": "yes",
+        "garmin:description": "fire station",
+        "name": "La Paz Barangay Hall Fire-Substation",
+        "old_name": "Makati Fire Sub-station",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0073606,
+              14.56829
+            ],
+            [
+              121.0073114,
+              14.5684194
+            ],
+            [
+              121.0072547,
+              14.5683992
+            ],
+            [
+              121.0073039,
+              14.5682698
+            ],
+            [
+              121.0073606,
+              14.56829
+            ]
+          ]
+        ]
+      },
+      "id": "way/699530379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/763206355",
+        "addr2:street": "Edison Street",
+        "addr:city": "Makati",
+        "addr:postcode": "1234",
+        "addr:street": "Batangas Street",
+        "alt_name": "MFD Sub-Station 2",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Makati Fire Sub-Station 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0072989,
+              14.5505795
+            ],
+            [
+              121.0072188,
+              14.5505257
+            ],
+            [
+              121.0073191,
+              14.5504442
+            ],
+            [
+              121.0073412,
+              14.5504615
+            ],
+            [
+              121.0073243,
+              14.5504868
+            ],
+            [
+              121.0073304,
+              14.5504906
+            ],
+            [
+              121.0073146,
+              14.5505145
+            ],
+            [
+              121.007325,
+              14.5505211
+            ],
+            [
+              121.0072989,
+              14.5505795
+            ]
+          ]
+        ]
+      },
+      "id": "way/763206355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/771809413",
+        "addr:city": "Manila",
+        "addr:postcode": "1010",
+        "addr:street": "Comercio Street",
+        "amenity": "fire_station",
+        "building": "yes",
+        "operator": "Divisoria Allied Fire Prevention Association, Inc.",
+        "operator:type": "ngo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9708982,
+              14.6025572
+            ],
+            [
+              120.9709476,
+              14.602511
+            ],
+            [
+              120.9710455,
+              14.602609
+            ],
+            [
+              120.9709961,
+              14.6026552
+            ],
+            [
+              120.9708982,
+              14.6025572
+            ]
+          ]
+        ]
+      },
+      "id": "way/771809413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/777179991",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Addition Hills Block 34 Fire Sub-station",
+        "operator:type": "community"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.034306,
+              14.5858325
+            ],
+            [
+              121.0343723,
+              14.5857759
+            ],
+            [
+              121.0344462,
+              14.585857
+            ],
+            [
+              121.0343799,
+              14.5859136
+            ],
+            [
+              121.034306,
+              14.5858325
+            ]
+          ]
+        ]
+      },
+      "id": "way/777179991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/789139108",
+        "addr:street": "Mel Lopez Boulevard",
+        "amenity": "fire_station",
+        "fixme": "name"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9594029,
+              14.6303851
+            ],
+            [
+              120.959529,
+              14.63004
+            ],
+            [
+              120.9597114,
+              14.630234
+            ],
+            [
+              120.9594029,
+              14.6303851
+            ]
+          ]
+        ]
+      },
+      "id": "way/789139108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/791974324",
+        "addr:street": "San Roque",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Bagumbayan Fire Station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0823381,
+              14.6083637
+            ],
+            [
+              121.0823803,
+              14.6083248
+            ],
+            [
+              121.0824862,
+              14.6084324
+            ],
+            [
+              121.0825097,
+              14.6084108
+            ],
+            [
+              121.0825648,
+              14.6084668
+            ],
+            [
+              121.0824992,
+              14.6085273
+            ],
+            [
+              121.0823381,
+              14.6083637
+            ]
+          ]
+        ]
+      },
+      "id": "way/791974324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802932126",
+        "addr:city": "Quezon City",
+        "addr:housenumber": "116",
+        "addr:postcode": "1106",
+        "addr:street": "Quirino Highway",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Baesa Fire Sub-Station",
+        "network": "Quezon City Fire District",
+        "opening_hours": "24/7",
+        "operator:type": "public",
+        "phone": "+63 2 8359 0990"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0136843,
+              14.6738101
+            ],
+            [
+              121.0136005,
+              14.6736965
+            ],
+            [
+              121.013643,
+              14.6736671
+            ],
+            [
+              121.0137268,
+              14.6737807
+            ],
+            [
+              121.0136843,
+              14.6738101
+            ]
+          ]
+        ]
+      },
+      "id": "way/802932126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804163371",
+        "addr:city": "Quezon City",
+        "addr:postcode": "1100",
+        "addr:street": "Road 7",
+        "amenity": "fire_station",
+        "building": "public",
+        "name": "Project 6 Fire Sub-Station",
+        "network": "Quezon City Fire District",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0406584,
+              14.6621816
+            ],
+            [
+              121.040671,
+              14.6621279
+            ],
+            [
+              121.0407353,
+              14.6621359
+            ],
+            [
+              121.0407602,
+              14.6621389
+            ],
+            [
+              121.0407556,
+              14.662203
+            ],
+            [
+              121.0406584,
+              14.6621816
+            ]
+          ]
+        ]
+      },
+      "id": "way/804163371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/822895250",
+        "addr:city": "Marikina",
+        "addr:postcode": "1800",
+        "addr:street": "Eraño Manalo",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "SF Direct"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0987821,
+              14.6402028
+            ],
+            [
+              121.0987056,
+              14.6400477
+            ],
+            [
+              121.0988357,
+              14.6399854
+            ],
+            [
+              121.0989142,
+              14.640147
+            ],
+            [
+              121.0987821,
+              14.6402028
+            ]
+          ]
+        ]
+      },
+      "id": "way/822895250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/837310813",
+        "addr:city": "Marikina",
+        "addr:postcode": "1800",
+        "addr:street": "Shoe Avenue",
+        "amenity": "fire_station",
+        "name": "Marikina City Central Fire Station",
+        "network": "Fire District 4",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0973689,
+              14.6331382
+            ],
+            [
+              121.0973849,
+              14.633003
+            ],
+            [
+              121.0974542,
+              14.6330107
+            ],
+            [
+              121.0974512,
+              14.6330599
+            ],
+            [
+              121.0975908,
+              14.6330798
+            ],
+            [
+              121.0975773,
+              14.6331679
+            ],
+            [
+              121.0973689,
+              14.6331382
+            ]
+          ]
+        ]
+      },
+      "id": "way/837310813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/887516654",
+        "addr:city": "Manila",
+        "addr:postcode": "1009",
+        "addr:province": "Metro Manila",
+        "addr:street": "Pedro Gil Street",
+        "amenity": "fire_station",
+        "name": "Santa Ana Fire Station",
+        "network": "Manila Fire District",
+        "opening_hours": "24/7",
+        "operator:type": "public",
+        "phone": "+63 2 5310 7667"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0079938,
+              14.5802433
+            ],
+            [
+              121.0080951,
+              14.579974
+            ],
+            [
+              121.0082661,
+              14.5800324
+            ],
+            [
+              121.0081802,
+              14.5802816
+            ],
+            [
+              121.0079938,
+              14.5802433
+            ]
+          ]
+        ]
+      },
+      "id": "way/887516654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905083424",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Pinagbuhatan Fire Station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.1036983,
+              14.5488552
+            ],
+            [
+              121.1036746,
+              14.548825
+            ],
+            [
+              121.1037164,
+              14.5487942
+            ],
+            [
+              121.1037401,
+              14.5488245
+            ],
+            [
+              121.1036983,
+              14.5488552
+            ]
+          ]
+        ]
+      },
+      "id": "way/905083424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/947127464",
+        "addr:street": "Kapitan Ato Street",
+        "alt_name": "Santa Cruz Fire Brigade",
+        "amenity": "fire_station",
+        "building": "civic",
+        "layer": "1",
+        "mapillary": "332807974854225",
+        "name": "Santa Cruz Fire Station Cluster 2",
+        "previously": "node:6505804697"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0789533,
+              14.5635197
+            ],
+            [
+              121.0789942,
+              14.5635457
+            ],
+            [
+              121.0789647,
+              14.5635891
+            ],
+            [
+              121.0789238,
+              14.5635632
+            ],
+            [
+              121.0789533,
+              14.5635197
+            ]
+          ]
+        ]
+      },
+      "id": "way/947127464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1060172825",
+        "addr:city": "Paco",
+        "addr:street": "Cristobal Street",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Binondo Paco Volunteer Fire Search and Rescue Brigade"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9940375,
+              14.5835464
+            ],
+            [
+              120.9939932,
+              14.5835448
+            ],
+            [
+              120.9940012,
+              14.5834831
+            ],
+            [
+              120.9940456,
+              14.5834847
+            ],
+            [
+              120.9940375,
+              14.5835464
+            ]
+          ]
+        ]
+      },
+      "id": "way/1060172825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1077262259",
+        "addr:city": "Las Piñas",
+        "addr:postcode": "1751",
+        "addr:street": "Daang Hari",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Fire Sub-Station Almanza Dos"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0180454,
+              14.4159031
+            ],
+            [
+              121.0180168,
+              14.4157045
+            ],
+            [
+              121.0180657,
+              14.4157029
+            ],
+            [
+              121.0181874,
+              14.4159027
+            ],
+            [
+              121.0180454,
+              14.4159031
+            ]
+          ]
+        ]
+      },
+      "id": "way/1077262259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1118197088",
+        "addr:city": "Caloocan",
+        "addr:street": "J. P. Rizal Street",
+        "amenity": "fire_station",
+        "building": "yes",
+        "mapillary": "281197564168048",
+        "name": "Maypajo Fire Station",
+        "official_name": "Maypajo Fire Sub-station",
+        "source": "extrapolation",
+        "source_ref": "https://osm.org/node/4182280091"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.9737489,
+              14.6379701
+            ],
+            [
+              120.9736637,
+              14.6379775
+            ],
+            [
+              120.9736486,
+              14.6378145
+            ],
+            [
+              120.9737338,
+              14.6378071
+            ],
+            [
+              120.9737489,
+              14.6379701
+            ]
+          ]
+        ]
+      },
+      "id": "way/1118197088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1136380196",
+        "amenity": "fire_station",
+        "name": "Bf Homes Sub-station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0196463,
+              14.7323169
+            ],
+            [
+              121.019577,
+              14.7322185
+            ],
+            [
+              121.0196547,
+              14.7321562
+            ],
+            [
+              121.0197422,
+              14.732247
+            ],
+            [
+              121.0196463,
+              14.7323169
+            ]
+          ]
+        ]
+      },
+      "id": "way/1136380196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1191458982",
+        "amenity": "fire_station",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0008894,
+              14.7026612
+            ],
+            [
+              121.0008201,
+              14.7026122
+            ],
+            [
+              121.0008795,
+              14.7025334
+            ],
+            [
+              121.0009488,
+              14.7025823
+            ],
+            [
+              121.0008894,
+              14.7026612
+            ]
+          ]
+        ]
+      },
+      "id": "way/1191458982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1298345487",
+        "alt_name": "Marikina Fire Station № 6",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "name": "Nangka Fire Station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.106628,
+              14.6664678
+            ],
+            [
+              121.1066656,
+              14.6664577
+            ],
+            [
+              121.1066769,
+              14.6664913
+            ],
+            [
+              121.1067165,
+              14.6664781
+            ],
+            [
+              121.1067297,
+              14.666523
+            ],
+            [
+              121.1066529,
+              14.6665441
+            ],
+            [
+              121.106628,
+              14.6664678
+            ]
+          ]
+        ]
+      },
+      "id": "way/1298345487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1358151517",
+        "alt_name": "Taguig City Fire Station 8",
+        "amenity": "fire_station",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61555865985143",
+        "mobile": "+63 906 211 0919",
+        "name": "Cuasay Fire Station",
+        "operator": "Bureau of Fire Protection",
+        "operator:type": "public",
+        "operator:wikidata": "Q17027200",
+        "phone": "+63 2 8837 0740; +63 2 8837 4496"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0513008,
+              14.5189219
+            ],
+            [
+              121.0512894,
+              14.5188394
+            ],
+            [
+              121.0513323,
+              14.5187953
+            ],
+            [
+              121.0514845,
+              14.5189089
+            ],
+            [
+              121.0514557,
+              14.5189505
+            ],
+            [
+              121.051398,
+              14.5189699
+            ],
+            [
+              121.0513423,
+              14.5189556
+            ],
+            [
+              121.0513008,
+              14.5189219
+            ]
+          ]
+        ]
+      },
+      "id": "way/1358151517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1358179143",
+        "addr:city": "Taguig",
+        "addr:street": "Laguna Lake Highway",
+        "alt_name": "Taguig City Fire Station 7",
+        "amenity": "fire_station",
+        "mobile": "+63 906 211 0919",
+        "name": "Wawa Fire Station",
+        "operator": "Bureau of Fire Protection",
+        "operator:type": "public",
+        "operator:wikidata": "Q17027200",
+        "phone": "+63 2 8837 0740; +63 2 8837 4496"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0806468,
+              14.5205473
+            ],
+            [
+              121.0808507,
+              14.5202721
+            ],
+            [
+              121.0810693,
+              14.5204526
+            ],
+            [
+              121.0807997,
+              14.520659
+            ],
+            [
+              121.0806468,
+              14.5205473
+            ]
+          ]
+        ]
+      },
+      "id": "way/1358179143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25583879",
+        "amenity": "fire_station",
+        "name": "Pasay Central Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.004251,
+          14.5493071
+        ]
+      },
+      "id": "node/25583879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255049912",
+        "addr:city": "Manila",
+        "addr:postcode": "1000",
+        "addr:province": "Metro Manila",
+        "amenity": "fire_station",
+        "name": "La Loma Fire Sub-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9946214,
+          14.6318135
+        ]
+      },
+      "id": "node/255049912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255050411",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "amenity": "fire_station",
+        "name": "Fire Boat 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0854791,
+          14.58886
+        ]
+      },
+      "id": "node/255050411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255058570",
+        "addr:city": "Parañaque",
+        "amenity": "fire_station",
+        "name": "Baclaran Fire Station",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.997001,
+          14.53142
+        ]
+      },
+      "id": "node/255058570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255058734",
+        "addr:city": "Taguig",
+        "addr:postcode": "1644",
+        "amenity": "fire_station",
+        "name": "Makati Fire Station № 9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0604525,
+          14.5627745
+        ]
+      },
+      "id": "node/255058734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255058946",
+        "addr:street": "Maria Leni Street",
+        "amenity": "fire_station",
+        "is_in:city": "Malabon",
+        "name": "Hulong Duhat Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9398482,
+          14.6806414
+        ]
+      },
+      "id": "node/255058946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255060299",
+        "addr:city": "Taguig",
+        "addr:postcode": "1641",
+        "addr:street": "Anahaw",
+        "amenity": "fire_station",
+        "name": "Makati Fire Station 10",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0651707,
+          14.5489974
+        ]
+      },
+      "id": "node/255060299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255060411",
+        "addr:city": "Parañaque",
+        "amenity": "fire_station",
+        "name": "Philacor Fire Station",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.039451,
+          14.455691
+        ]
+      },
+      "id": "node/255060411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255060861",
+        "addr:city": "Pasig",
+        "addr:postcode": "1605",
+        "addr:province": "Metro Manila",
+        "addr:street": "Meralco Avenue",
+        "alt_name": "Pasig Fire District IV Headquarters",
+        "amenity": "fire_station",
+        "name": "Meralco Fire Sub-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.063478,
+          14.5791284
+        ]
+      },
+      "id": "node/255060861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255061405",
+        "addr:city": "Quezon City",
+        "addr:postcode": "1126",
+        "addr:street": "IBP Road",
+        "alt_name": "Congress Fire Sub-Station",
+        "amenity": "fire_station",
+        "name": "IBP Fire Sub-Station",
+        "network": "Quezon City Fire District",
+        "operator:type": "public",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0958113,
+          14.694632
+        ]
+      },
+      "id": "node/255061405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255062128",
+        "addr:city": "Mandaluyong",
+        "addr:province": "Metro Manila",
+        "amenity": "fire_station",
+        "name": "Kalentong Fire Sub-station",
+        "operator": "Bureau of Fire Protection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0252807,
+          14.5912522
+        ]
+      },
+      "id": "node/255062128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255063322",
+        "amenity": "fire_station",
+        "is_in:city": "Valenzuela",
+        "is_in:region": "Ncr",
+        "is_in:zip": "1440",
+        "name": "Bf Homes Sub-station",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0196796,
+          14.7322511
+        ]
+      },
+      "id": "node/255063322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255063537",
+        "addr:city": "Quezon City",
+        "addr:housenumber": "45",
+        "addr:postcode": "1113",
+        "addr:street": "Unang Hakbang Street",
+        "amenity": "fire_station",
+        "garmin:description": "fire station",
+        "name": "Galas Fire Sub-station",
+        "phone": "+63 7155573",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0090976,
+          14.6118927
+        ]
+      },
+      "id": "node/255063537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255064208",
+        "addr:city": "Makati",
+        "addr:street": "Casino",
+        "amenity": "fire_station",
+        "garmin:description": "fire station",
+        "name": "Makati Fire Sub-station 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0058628,
+          14.5603234
+        ]
+      },
+      "id": "node/255064208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255065305",
+        "amenity": "fire_station",
+        "garmin:description": "fire station",
+        "is_in:city": "Taguig",
+        "is_in:zip": "1630",
+        "name": "Taguig Fire Substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.070449,
+          14.528821
+        ]
+      },
+      "id": "node/255065305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255065828",
+        "amenity": "fire_station",
+        "garmin:description": "fire station",
+        "is_in:city": "Navotas",
+        "is_in:region": "Ncr",
+        "is_in:zip": "1485",
+        "name": "Dagat-dagatan Sub-station",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9549312,
+          14.6466866
+        ]
+      },
+      "id": "node/255065828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255065891",
+        "addr:city": "Parañaque",
+        "amenity": "fire_station",
+        "name": "La Suerte Fire Station",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0354582,
+          14.5048555
+        ]
+      },
+      "id": "node/255065891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255065908",
+        "addr:city": "Las Piñas",
+        "amenity": "fire_station",
+        "name": "Pillar Village Fire Station",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.00827,
+          14.416911
+        ]
+      },
+      "id": "node/255065908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255066041",
+        "addr:city": "Mandaluyong",
+        "addr:province": "Metro Manila",
+        "addr:street": "Maysilo Circle",
+        "amenity": "fire_station",
+        "name": "Mandaluyong Central Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0333542,
+          14.5771704
+        ]
+      },
+      "id": "node/255066041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255067241",
+        "addr:city": "Pasay",
+        "addr:postcode": "1300",
+        "addr:street": "Apelo Cruz Extension",
+        "amenity": "fire_station",
+        "name": "Malibay Fire Station",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0097324,
+          14.533723
+        ]
+      },
+      "id": "node/255067241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255067513",
+        "amenity": "fire_station",
+        "garmin:description": "fire station",
+        "is_in:city": "Navotas",
+        "is_in:region": "Ncr",
+        "is_in:zip": "1485",
+        "name": "Bayan Fire Station",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9511527,
+          14.6580792
+        ]
+      },
+      "id": "node/255067513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255067815",
+        "addr:city": "Parañaque",
+        "addr:postcode": "1701",
+        "addr:street": "Quirino Avenue",
+        "amenity": "fire_station",
+        "name": "La Huerta Fire Station",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9911445,
+          14.5008517
+        ]
+      },
+      "id": "node/255067815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255068100",
+        "addr:city": "Las Piñas",
+        "addr:street": "Rosal Street",
+        "amenity": "fire_station",
+        "name": "Manuela Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9750048,
+          14.4544773
+        ]
+      },
+      "id": "node/255068100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255068441",
+        "addr:city": "Makati",
+        "addr:postcode": "1208",
+        "amenity": "fire_station",
+        "garmin:description": "fire station",
+        "name": "Station 6",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0244561,
+          14.5719173
+        ]
+      },
+      "id": "node/255068441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255070718",
+        "addr:city": "Muntinlupa",
+        "addr:postcode": "1776",
+        "amenity": "fire_station",
+        "name": "New Bilibid Fire Sub-station",
+        "note": "approximate location",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0296839,
+          14.3815255
+        ]
+      },
+      "id": "node/255070718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255071481",
+        "amenity": "fire_station",
+        "garmin:description": "fire station",
+        "is_in:city": "Navotas",
+        "is_in:region": "Ncr",
+        "is_in:zip": "1485",
+        "name": "Daang-hari Sub-station",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.941162,
+          14.66857
+        ]
+      },
+      "id": "node/255071481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255071556",
+        "addr:city": "Quezon City",
+        "addr:postcode": "1100",
+        "addr:province": "Metro Manila",
+        "addr:street": "Juan Ortega Street",
+        "amenity": "fire_station",
+        "name": "B.F. Fire Sub-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.07682,
+          14.68971
+        ]
+      },
+      "id": "node/255071556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255071824",
+        "addr:city": "Makati",
+        "amenity": "fire_station",
+        "garmin:description": "fire station",
+        "is_in:city": "Makati",
+        "is_in:zip": "1200",
+        "name": "Station 1",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0447903,
+          14.5605242
+        ]
+      },
+      "id": "node/255071824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255072237",
+        "addr:city": "Quezon City",
+        "addr:postcode": "1100",
+        "addr:province": "Ncr",
+        "amenity": "fire_station",
+        "name": "Fire Chiefs & Fire Fighters Group",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0215928,
+          14.6422715
+        ]
+      },
+      "id": "node/255072237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255072461",
+        "addr:city": "Quezon City",
+        "addr:postcode": "1100",
+        "addr:province": "Ncr",
+        "amenity": "fire_station",
+        "name": "Fairview Fire Sub-station",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0730047,
+          14.7073576
+        ]
+      },
+      "id": "node/255072461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/417322068",
+        "amenity": "fire_station",
+        "name": "BF Homes Fire Substation",
+        "source:feature": "mkmadrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.027101,
+          14.4456181
+        ]
+      },
+      "id": "node/417322068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/582975922",
+        "amenity": "fire_station",
+        "name": "Polo Fire Station",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9463152,
+          14.7080322
+        ]
+      },
+      "id": "node/582975922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1243084160",
+        "amenity": "fire_station",
+        "name": "Quezon City Fil-Chi Volunteer Fire Brigade Ass'n.",
+        "source": "rytguy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0177193,
+          14.615719
+        ]
+      },
+      "id": "node/1243084160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1319873960",
+        "addr:city": "Pateros",
+        "addr:street": "Magnolia",
+        "amenity": "fire_station",
+        "name": "Pateros Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0735289,
+          14.5516358
+        ]
+      },
+      "id": "node/1319873960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1341215525",
+        "addr:street": "Rodriguez Street",
+        "amenity": "fire_station",
+        "name": "Panghulo Barangay Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9563269,
+          14.6860464
+        ]
+      },
+      "id": "node/1341215525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1653324987",
+        "addr:street": "Doctor A. Santos Avenue",
+        "amenity": "fire_station",
+        "fixme": "name",
+        "operator": "Paranaque Filipino-Chinese Fire Volunteer Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9995388,
+          14.4764829
+        ]
+      },
+      "id": "node/1653324987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1920968874",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0323812,
+          14.6818313
+        ]
+      },
+      "id": "node/1920968874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321605392",
+        "addr:city": "Manila",
+        "addr:district": "Binondo",
+        "addr:province": "Metro Manila",
+        "addr:street": "Zacateros Street",
+        "addr:village": "Barangay 300",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "30",
+        "contact:phone": "+632 733 5384",
+        "name": "Arranque Fire Brigade",
+        "opening_hours": "24/7",
+        "operator": "Barangay 300",
+        "operator:type": "government",
+        "short_name": "Arranque VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:position": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9779249,
+          14.602565
+        ]
+      },
+      "id": "node/2321605392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2438839683",
+        "amenity": "fire_station",
+        "name": "New Millenium Fire & Rescue Volunteers Assoc., Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.003288,
+          14.6355699
+        ]
+      },
+      "id": "node/2438839683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2478725667",
+        "addr:city": "Parañaque",
+        "addr:postcode": "1701",
+        "addr:street": "Quirino Avenue",
+        "amenity": "fire_station",
+        "name": "Old Paranaque Fire Volunteer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9957056,
+          14.5132165
+        ]
+      },
+      "id": "node/2478725667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838870131",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "amenity": "fire_station",
+        "name": "Santa Cruz Fire Brigade",
+        "opening_hours": "24/7",
+        "operator:type": "ngo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9804456,
+          14.6016045
+        ]
+      },
+      "id": "node/2838870131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3192782639",
+        "addr:street": "Dr. A. Natividad Street",
+        "amenity": "fire_station",
+        "is_in:city": "Taguig",
+        "is_in:region": "Ncr",
+        "is_in:zip": "1630",
+        "name": "Ibayo-TIpas Fire Sub-Station",
+        "operator": "Bureau of Fire Protection, Taguig",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0884258,
+          14.5406304
+        ]
+      },
+      "id": "node/3192782639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4174135491",
+        "addr:city": "Manila",
+        "addr:district": "Santa Cruz",
+        "addr:province": "Metro Manila",
+        "addr:street": "Sabino Padilla",
+        "addr:street:corner": "Tetuan",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "22",
+        "name": "Ongpin-Gandara-Tetuan Volunteer Fire Brigade",
+        "opening_hours": "24/7",
+        "operator": "OGT Fire Volunteer",
+        "operator:type": "community",
+        "short_name": "O.G.T. VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9772048,
+          14.6003078
+        ]
+      },
+      "id": "node/4174135491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4208711731",
+        "amenity": "fire_station",
+        "name": "Malate Fire Volunteer and Rescue Squad",
+        "operator": "Barangay 701",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.985379,
+          14.5685725
+        ]
+      },
+      "id": "node/4208711731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709516",
+        "addr:city": "Manila",
+        "addr:district": "Tondo",
+        "addr:place": "Balut",
+        "addr:street": "Guidote Street",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "3",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "51",
+        "contact:phone": "+632252 8115",
+        "name": "Alpha Fire Brigade",
+        "operator": "Alpha Fire Brigade Brotherhood Association",
+        "operator:type": "community",
+        "short_name": "Alpha Bros VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9657,
+          14.62917
+        ]
+      },
+      "id": "node/4214709516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709518",
+        "addr:city": "Manila",
+        "addr:district": "Tondo",
+        "addr:housenumber": "414",
+        "addr:street": "Padre Rada Street",
+        "amenity": "fire_station",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:firefighter": "6",
+        "contact:phone": "+63 9174351293",
+        "name": "B.M. Domingo Brigade",
+        "operator": "BMD Volunteer Fire, Search, and Rescue Inc.",
+        "operator:type": "private",
+        "short_name": "B.M.D. VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.96659,
+          14.60462
+        ]
+      },
+      "id": "node/4214709518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709519",
+        "addr:city": "Manila",
+        "addr:district": "Tondo",
+        "addr:housenumber": "1463",
+        "addr:street": "Masangkay Street",
+        "alt_name": "BMA Volunteer Fire Brigade",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:fire_truck:tanker": "2",
+        "capacity:firefighter": "20",
+        "contact:phone": "+632 407 6888",
+        "name": "Bambang-Masangkay-Abad Santos Volunteer Fire Brigade",
+        "operator:type": "community",
+        "short_name": "B.M.A. VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9798307,
+          14.6101974
+        ]
+      },
+      "id": "node/4214709519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709520",
+        "addr:city": "Manila",
+        "addr:street": "Earnshaw Street",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:firefighter": "62",
+        "contact:phone": "+632 93266837",
+        "name": "Blue Dragon Fire and Rescue",
+        "operator": "Barangay 175 & Barangay 176",
+        "operator:type": "government",
+        "short_name": "Blue Dragon VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97036,
+          14.62868
+        ]
+      },
+      "id": "node/4214709520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709521",
+        "addr:city": "Manila",
+        "addr:district": "Santa Cruz",
+        "addr:street": "Tomas Mapua",
+        "addr:street:corner": "Mayhaligue",
+        "amenity": "fire_station",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:firefighter": "15",
+        "contact:phone": "+632 7124634",
+        "mapillary": "301189101674924",
+        "name": "Central Downtown Firefighters",
+        "operator": "United Filipino Chinese Fire Rescue Communications Association, Inc",
+        "operator:type": "community",
+        "short_name": "Central Downtown VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9812835,
+          14.6087189
+        ]
+      },
+      "id": "node/4214709521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709523",
+        "addr:city": "Manila",
+        "addr:district": "Sampaloc",
+        "addr:street": "Algeciras Street",
+        "addr:street:corner": "Maria Clara",
+        "amenity": "fire_station",
+        "name": "Central Sampaloc Fire and Rescue Volunteer Brigade",
+        "operator": "Central Sampaloc Fire and Rescue Volunteer Brigade Inc.",
+        "operator:type": "community",
+        "short_name": "C. Sampaloc VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99085,
+          14.61812
+        ]
+      },
+      "id": "node/4214709523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709524",
+        "addr:city": "Manila",
+        "addr:district": "Binondo",
+        "addr:housenumber": "391",
+        "addr:street": "Lavezares",
+        "amenity": "fire_station",
+        "capacity:fire_truck:pumper": "2",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "20",
+        "contact:phone": "+632 242 7040",
+        "name": "Central San Nicolas Fire Brigade",
+        "operator": "Central San Nicolas Fire Prevention Association",
+        "operator:type": "community",
+        "short_name": "C. San Nicolas VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.96899,
+          14.59885
+        ]
+      },
+      "id": "node/4214709524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709525",
+        "addr:city": "Manila",
+        "addr:district": "Tondo",
+        "addr:street": "Franco",
+        "addr:street:corner": "Coral",
+        "amenity": "fire_station",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "6",
+        "contact:phone": "+632 255 9034",
+        "name": "Central Tondo Volunteer Fire Brigade",
+        "operator": "LPG Marketers Association (LPGMA)",
+        "operator:type": "private",
+        "short_name": "Central Tondo VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.96751,
+          14.61262
+        ]
+      },
+      "id": "node/4214709525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709526",
+        "addr:city": "Manila",
+        "addr:district": "Binondo",
+        "addr:street": "Tomas Pinpin",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "64",
+        "name": "Chinatown Volunteers",
+        "short_name": "Chinatown VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97698,
+          14.59976
+        ]
+      },
+      "id": "node/4214709526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709527",
+        "addr:city": "Manila",
+        "addr:district": "Tondo",
+        "addr:street": "Dagupan Street",
+        "amenity": "fire_station",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "6",
+        "name": "Dagupan Volunteer Fire Brigade",
+        "operator:type": "community",
+        "short_name": "Dagupan VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97259,
+          14.61122
+        ]
+      },
+      "id": "node/4214709527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709528",
+        "addr:city": "Manila",
+        "addr:district": "Binondo",
+        "addr:housenumber": "730",
+        "addr:street": "Ylaya",
+        "addr:street:corner": "San Juan",
+        "amenity": "fire_station",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:firefighter": "10",
+        "contact:phone": "+63 2 8242 9016",
+        "name": "Divisoria Volunteer Firefighters",
+        "operator": "Divisoria Fil-Chinese Fire Brigade",
+        "operator:type": "community",
+        "short_name": "Divisoria VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:position": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97136,
+          14.603694
+        ]
+      },
+      "id": "node/4214709528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709529",
+        "addr:city": "Manila",
+        "addr:district": "Binondo",
+        "addr:street": "Norberto Ty Street",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:pumper": "2",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "50",
+        "contact:phone": "+632 382 4181",
+        "name": "Binondo Paco Fire Search and Rescue Brigade",
+        "operator": "East Binondo Volunteer Fire Prevention Association",
+        "operator:type": "community",
+        "short_name": "Ea. Binondo VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9752092,
+          14.6007331
+        ]
+      },
+      "id": "node/4214709529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709530",
+        "addr:city": "Manila",
+        "addr:district": "Tondo",
+        "addr:housenumber": "805",
+        "addr:street": "Malong",
+        "addr:street:corner": "Gregorio Perfecto",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:firefighter": "2",
+        "name": "G. Perfecto Volunteer Fire Brigade",
+        "operator:type": "community",
+        "short_name": "G. Perfecto VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97149,
+          14.61281
+        ]
+      },
+      "id": "node/4214709530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709531",
+        "addr:city": "Manila",
+        "addr:district": "Binondo",
+        "addr:housename": "Solex Building",
+        "addr:street": "Soler Street",
+        "amenity": "fire_station",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:firefighter": "16",
+        "name": "Hometown Volunteer",
+        "operator": "Hometown Volunteer Fire Brigade Inc.",
+        "operator:type": "community",
+        "short_name": "Hometown VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:position": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9758228,
+          14.6042306
+        ]
+      },
+      "id": "node/4214709531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709532",
+        "addr:city": "Manila",
+        "addr:district": "Tondo",
+        "addr:street": "Capulong Highway",
+        "addr:street:corner": "Roxas Street",
+        "addr:village": "Barangay 105",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:firefighter": "22",
+        "name": "Maginoo Fire Rescue Volunteer",
+        "operator": "Barangay 105",
+        "operator:type": "government",
+        "short_name": "Maginoo VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9614445,
+          14.6201817
+        ]
+      },
+      "id": "node/4214709532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709533",
+        "addr:city": "Manila",
+        "addr:district": "Santa Cruz",
+        "addr:housenumber": "2337",
+        "addr:street": "Ipil",
+        "addr:street:corner": "Old Antipolo",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:tanker": "2",
+        "capacity:firefighter": "50",
+        "contact:phone": "+632 16016",
+        "name": "Manila Blumentrit Volunteer Fire Brigade",
+        "operator": "Manila Blumentrit Fire Prevention Association Inc.",
+        "operator:type": "community",
+        "short_name": "Manila Blumentrit VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98008,
+          14.62246
+        ]
+      },
+      "id": "node/4214709533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709534",
+        "addr:city": "Manila",
+        "addr:district": "Santa Cruz",
+        "addr:housenumber": "1447",
+        "addr:street": "Doroteo Jose Street",
+        "addr:street:corner": "T. Alonzo Street",
+        "amenity": "fire_station",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "18",
+        "contact:phone": "+632 522 2222",
+        "name": "Manila DJ Zone 31 Volunteer Fire Brigade",
+        "operator:type": "community",
+        "short_name": "Maniila DJ VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97936,
+          14.60553
+        ]
+      },
+      "id": "node/4214709534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709535",
+        "addr:city": "Manila",
+        "addr:district": "Santa Cruz",
+        "addr:housenumber": "2144",
+        "addr:street": "Severino Reyes Street",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:fire_truck:tanker": "2",
+        "capacity:firefighter": "35",
+        "contact:phone": "+63 9212816600",
+        "name": "Manila Setba Volunteer Fire Brigade",
+        "operator": "Manila Setba Volunteer Fire Brigade",
+        "operator:type": "community",
+        "short_name": "Manila Setba VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98104,
+          14.62028
+        ]
+      },
+      "id": "node/4214709535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709536",
+        "addr:city": "Manila",
+        "addr:district": "Tondo",
+        "addr:housenumber": "1068",
+        "addr:street": "Albuqerque",
+        "addr:street:corner": "Herrera",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:firefighter": "17",
+        "contact:phone": "+632 245 0273",
+        "name": "New Market Volunteer Fire Brigade",
+        "operator": "New Market Merchants Fire Prevention Unit",
+        "operator:type": "community",
+        "short_name": "New Market VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.96811,
+          14.6073
+        ]
+      },
+      "id": "node/4214709536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709538",
+        "addr:city": "Manila",
+        "addr:neighbourhood": "Gagalangin",
+        "addr:street": "Antipolo Street",
+        "addr:suburb": "Tondo",
+        "amenity": "fire_station",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:firefighter": "25",
+        "contact:phone": "+632 9261804628",
+        "name": "North Jose Abad Santos Fire Brigade",
+        "operator": "North Jose Abad Santos Volunteer Fire Brigade, Incorporated.",
+        "operator:type": "community",
+        "short_name": "No. J. Abad Santos VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9680041,
+          14.6253727
+        ]
+      },
+      "id": "node/4214709538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709539",
+        "addr:city": "Manila",
+        "addr:district": "Tondo",
+        "addr:housenumber": "1915",
+        "addr:street": "Capulong Highway",
+        "amenity": "fire_station",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "6",
+        "contact:phone": "+63 917 623 6838",
+        "name": "North Tondo Volunteers",
+        "operator": "North Tondo Fire Volunteer, Inc.",
+        "operator:type": "community",
+        "short_name": "No. Tondo VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9694,
+          14.61975
+        ]
+      },
+      "id": "node/4214709539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709542",
+        "addr:city": "Manila",
+        "addr:district": "Pandacan",
+        "addr:postcode": "1011",
+        "addr:street": "West Zamora Street",
+        "addr:village": "Barangay 92",
+        "amenity": "fire_station",
+        "capacity:firefighter": "13",
+        "contact:phone": "+63 918 767 2830",
+        "name": "Pandacan Volunteers",
+        "operator": "Pandacan Volunteer Fire Brigade Inc.",
+        "operator:type": "community",
+        "short_name": "Pandacan VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:position": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.00131,
+          14.58585
+        ]
+      },
+      "id": "node/4214709542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709543",
+        "addr:city": "Manila",
+        "addr:district": "Intramuros",
+        "addr:housename": "Philippine Red Cross",
+        "addr:place": "Anda Circle",
+        "addr:street": "Bonifacion Drive",
+        "amenity": "fire_station",
+        "capacity:fire_truck:tanker": "2",
+        "capacity:firefighter": "14",
+        "name": "Red Cross Fire Brigade",
+        "operator": "Philippine Red Cross",
+        "operator:type": "ngo",
+        "short_name": "Red Cross VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97021,
+          14.59132
+        ]
+      },
+      "id": "node/4214709543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709544",
+        "addr:city": "Manila",
+        "addr:district": "Santa Cruz",
+        "addr:street": "T. Alonzo Street",
+        "alt_name": "Co Kim Eh Rescue Foundation",
+        "amenity": "fire_station",
+        "capacity:fire_truck:pumper": "1",
+        "name": "Saint Florian Rescue Fire Department",
+        "operator": "Saint Florian Fil-Chi Rescue Fire Department",
+        "operator:type": "ngo",
+        "short_name": "St. Florian VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97978,
+          14.60748
+        ]
+      },
+      "id": "node/4214709544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709545",
+        "addr:city": "Manila",
+        "addr:district": "San Andres Bukid",
+        "addr:postcode": "1017",
+        "addr:street": "Amatista Street",
+        "addr:street:corner": "Sagrada Pamilya",
+        "addr:village": "Barangay 763",
+        "amenity": "fire_station",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:firefighter": "60",
+        "contact:phone": "+63 922 857 9906",
+        "name": "San Andres Fire Volunteer Brigade",
+        "operator": "Barangay 763",
+        "operator:type": "government",
+        "short_name": "San Andres VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:position": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.00378,
+          14.5691
+        ]
+      },
+      "id": "node/4214709545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709546",
+        "addr:city": "Manila",
+        "addr:district": "Santa Cruz",
+        "addr:housenumber": "1328",
+        "addr:street": "Soler Street",
+        "amenity": "fire_station",
+        "capacity:fire_truck:pumper": "1",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "36",
+        "contact:phone": "+632 733 7261",
+        "name": "Soler Volunteer Fire Prevention Center",
+        "operator:type": "community",
+        "short_name": "Soler VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98066,
+          14.60217
+        ]
+      },
+      "id": "node/4214709546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709548",
+        "addr:city": "Manila",
+        "addr:district": "Tondo",
+        "addr:street": "Malong Street",
+        "addr:street:corner": "Dagupan Street",
+        "amenity": "fire_station",
+        "contact:phone": "+632 254 9771",
+        "name": "Tondo 1 Volunteer Firefighters",
+        "operator": "Tondo 1 Firefighter Volunteer Rescue Brigade. Inc.",
+        "operator:type": "community",
+        "short_name": "Tondo 1 VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97275,
+          14.61249
+        ]
+      },
+      "id": "node/4214709548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709549",
+        "addr2:street": "Mayhaligue Street",
+        "addr:city": "Manila",
+        "addr:district": "Binondo",
+        "addr:street": "Dagupan Street",
+        "amenity": "fire_station",
+        "capacity:fire_truck:mini_pumper": "1",
+        "capacity:fire_truck:pumper": "2",
+        "capacity:firefighter": "15",
+        "name": "Tutuban Prime",
+        "operator": "Tutuban Prime and Rescue Volunteer Association",
+        "operator:type": "community",
+        "short_name": "Tutuban Prime",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9726432,
+          14.6105952
+        ]
+      },
+      "id": "node/4214709549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4214709551",
+        "addr:city": "Manila",
+        "addr:district": "Tondo",
+        "addr:street": "Mayhaligue",
+        "addr:street:corner": "Narra",
+        "amenity": "fire_station",
+        "capacity:fire_truck:tanker": "1",
+        "capacity:firefighter": "25",
+        "contact:phone": "+632 252 5754",
+        "name": "West Tondo Volunteer Brigade",
+        "operator:type": "community",
+        "short_name": "We. Tondo VFB",
+        "source": "Manila Fire District;Bureau of Fire Protection",
+        "source:geometry": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97497,
+          14.61036
+        ]
+      },
+      "id": "node/4214709551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4243416090",
+        "amenity": "fire_station",
+        "name": "Bartville, Dela Paz Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.093767,
+          14.6111493
+        ]
+      },
+      "id": "node/4243416090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4255666042",
+        "addr:city": "Manila",
+        "addr:district": "Santa Cruz",
+        "addr:housenumber": "432",
+        "addr:street": "Escolta Street",
+        "amenity": "fire_station",
+        "mapillary": "506546647161715",
+        "name": "Escolta Santa Cruz Fire and Rescue Volunteers",
+        "operator": "Association of Escolta Santa Cruz Fire and Rescue Volunteer Inc.",
+        "operator:type": "community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9799968,
+          14.5988403
+        ]
+      },
+      "id": "node/4255666042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4319088592",
+        "addr:city": "Pasig",
+        "addr:postcode": "1609",
+        "addr:street": "Bernal Street",
+        "amenity": "fire_station",
+        "name": "Rosario Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0845204,
+          14.5862036
+        ]
+      },
+      "id": "node/4319088592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4739050721",
+        "addr:street": "Mel Lopez Boulevard",
+        "amenity": "fire_station",
+        "fire_station:type": "voluntary",
+        "name": "D'ECK TRANS Volunteer Fire & Rescue Brigade",
+        "name:en": "D'ECK TRANS Volunteer Fire & Rescue Brigade",
+        "operator:type": "ngo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9624239,
+          14.6009891
+        ]
+      },
+      "id": "node/4739050721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4930412321",
+        "addr:street": "Fausto Street",
+        "amenity": "fire_station",
+        "name": "Valenzuela Primo",
+        "official_name": "Valenzuela Primo Filipino Chinese Fire and Rescue Volunteer, Incorporated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9787829,
+          14.6823729
+        ]
+      },
+      "id": "node/4930412321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4985870621",
+        "amenity": "fire_station",
+        "name": "Paco Volunteer Fire Brigade",
+        "name:en": "Paco Volunteer Fire Brigade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.997634,
+          14.5795193
+        ]
+      },
+      "id": "node/4985870621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104432322",
+        "addr:postcode": "1500",
+        "addr:street": "F. Roxas",
+        "amenity": "fire_station",
+        "name": "Central San Juan Fire and Rescue Volunteers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.028065,
+          14.6011279
+        ]
+      },
+      "id": "node/5104432322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5477249502",
+        "addr:street": "Katipunan Avenue",
+        "amenity": "fire_station",
+        "mapillary": "816688062303024",
+        "operator": "Barangay Loyola Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0743838,
+          14.6415184
+        ]
+      },
+      "id": "node/5477249502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5698332961",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.012547,
+          14.5250656
+        ]
+      },
+      "id": "node/5698332961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6006818984",
+        "addr:street": "Industria Street",
+        "amenity": "fire_station",
+        "mapillary": "7516963735046461",
+        "name": "62 Fire Station",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0860861,
+          14.6038854
+        ]
+      },
+      "id": "node/6006818984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6250503585",
+        "amenity": "fire_station",
+        "name": "Volunteer Fire Brigade",
+        "operator": "Fire Brigade",
+        "operator:type": "community",
+        "phone": "3675748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9851027,
+          14.6484299
+        ]
+      },
+      "id": "node/6250503585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6252925897",
+        "amenity": "fire_station",
+        "operator": "Barangay Bagong Silang",
+        "operator:type": "community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0302997,
+          14.5911345
+        ]
+      },
+      "id": "node/6252925897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6337144472",
+        "amenity": "fire_station",
+        "name": "BFP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0591795,
+          14.473788
+        ]
+      },
+      "id": "node/6337144472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6395481520",
+        "addr:street": "Manuel L. Quezon Avenue",
+        "amenity": "fire_station",
+        "name": "Hagonoy Barangay Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0698195,
+          14.5127925
+        ]
+      },
+      "id": "node/6395481520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6501530427",
+        "addr:street": "Pio Alvarez Street",
+        "amenity": "fire_station",
+        "name": "Bambang Fire and Rescue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0820847,
+          14.5548472
+        ]
+      },
+      "id": "node/6501530427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6501530428",
+        "amenity": "fire_station",
+        "name": "Pasig City Fire Boat Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0819711,
+          14.554004
+        ]
+      },
+      "id": "node/6501530428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6501680756",
+        "addr:street": "Elisco Road",
+        "amenity": "fire_station",
+        "name": "San Joaquin Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0763157,
+          14.5510564
+        ]
+      },
+      "id": "node/6501680756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6501983998",
+        "addr:street": "F. Concepcion Street",
+        "amenity": "fire_station",
+        "name": "San Jose Fire Brigade",
+        "operator:type": "community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0742671,
+          14.5612789
+        ]
+      },
+      "id": "node/6501983998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6522443102",
+        "amenity": "fire_station",
+        "mapillary": "127136109910461",
+        "operator": "LPGMA",
+        "operator:type": "consortium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0940453,
+          14.5648258
+        ]
+      },
+      "id": "node/6522443102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6522549752",
+        "amenity": "fire_station",
+        "name": "Palatiw BSF and Fire Brigade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0849519,
+          14.5630372
+        ]
+      },
+      "id": "node/6522549752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6541304625",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0837338,
+          14.5902733
+        ]
+      },
+      "id": "node/6541304625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6542375622",
+        "addr:street": "Acacia Street",
+        "amenity": "fire_station",
+        "name": "Pinagbuhatan Fire and Rescue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0860504,
+          14.5560104
+        ]
+      },
+      "id": "node/6542375622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6544633980",
+        "addr:street": "Dedicas Street",
+        "amenity": "fire_station",
+        "name": "Barangka Itaas Barangay Fire Station",
+        "operator:type": "community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0412827,
+          14.5715724
+        ]
+      },
+      "id": "node/6544633980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7192253809",
+        "addr:street": "F. Pike",
+        "amenity": "fire_station",
+        "name": "Pasig Alliance",
+        "operator": "Fil-Chi Volunteer Fire Prevention Brigade, Inc.",
+        "operator:type": "community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0694405,
+          14.5679789
+        ]
+      },
+      "id": "node/7192253809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7223810089",
+        "addr:street": "Doña Rosario Street",
+        "amenity": "fire_station",
+        "name": "Novaliches Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0354777,
+          14.7212874
+        ]
+      },
+      "id": "node/7223810089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7231922072",
+        "addr:street": "Simon",
+        "amenity": "fire_station",
+        "name": "Doña Ata Fire Sub-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9845386,
+          14.6774363
+        ]
+      },
+      "id": "node/7231922072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7232738705",
+        "addr:street": "P. Diego Cera Avenue",
+        "amenity": "fire_station",
+        "name": "Bamboo Organ Fire Sub-station",
+        "operator": "Bureau of Fire Protection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9815231,
+          14.4807227
+        ]
+      },
+      "id": "node/7232738705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7324774193",
+        "addr:city": "Barangay Holy Spirit",
+        "addr:street": "Marcelino",
+        "amenity": "fire_station",
+        "name": "Holy Spirit Barangay Fire Station",
+        "operator": "local government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0767342,
+          14.6842761
+        ]
+      },
+      "id": "node/7324774193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7490619286",
+        "addr:city": "Manila",
+        "addr:street": "Aurora Boulevard",
+        "amenity": "fire_station",
+        "name": "Baracom Central Fire & Rescue Volunteer",
+        "operator:type": "community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9866384,
+          14.625949
+        ]
+      },
+      "id": "node/7490619286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7517393773",
+        "addr:street": "CAA Avenue",
+        "amenity": "fire_station",
+        "mapillary": "5693394794033992",
+        "name": "BF International Barangay Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9948188,
+          14.4574984
+        ]
+      },
+      "id": "node/7517393773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8442014241",
+        "amenity": "fire_station",
+        "mapillary": "OFoa14hm8N5TomJNJXK2yt",
+        "name": "San Miguel Fire & Rescue Base"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0856387,
+          14.5654906
+        ]
+      },
+      "id": "node/8442014241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8633738003",
+        "addr:place": "Industrial Valley Complex",
+        "addr:street": "Major S. Dizon Street",
+        "amenity": "fire_station",
+        "name": "IVC Station",
+        "operator": "Bureau of Fire Protection",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0800521,
+          14.627292
+        ]
+      },
+      "id": "node/8633738003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8737300203",
+        "addr:place": "Centro",
+        "addr:street": "Mulawinan Street",
+        "amenity": "fire_station",
+        "name": "Lawang Bato Fire Station",
+        "operator": "Bureau of Fire Protection",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9940356,
+          14.7303498
+        ]
+      },
+      "id": "node/8737300203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8737449358",
+        "addr:place": "Caybiga",
+        "addr:street": "General Luis Street",
+        "amenity": "fire_station",
+        "name": "Caybiga Fire Sub-station",
+        "operator": "Bureau of Fire Protection",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0071355,
+          14.7190524
+        ]
+      },
+      "id": "node/8737449358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8929794178",
+        "addr:city": "Marikina",
+        "addr:quarter": "Fortune",
+        "addr:street": "Champaca 1",
+        "amenity": "fire_station",
+        "contact:facebook": "Barangayfortunefiredepartment",
+        "contact:phone": "+639274293904",
+        "name": "Fortune Fire Brigade",
+        "operator": "Fortune Barangay LGU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.127792,
+          14.6632734
+        ]
+      },
+      "id": "node/8929794178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9733763463",
+        "addr:quarter": "Canumay West",
+        "addr:street": "T. Santiago Street",
+        "amenity": "fire_station",
+        "mapillary": "121499687140472",
+        "name": "Canuman Fire Station",
+        "official_name": "Canumay Sub-station",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9848916,
+          14.7068022
+        ]
+      },
+      "id": "node/9733763463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776176305",
+        "amenity": "fire_station",
+        "operator": "Barangay Wack-wack Greenhills LGU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0555233,
+          14.5854258
+        ]
+      },
+      "id": "node/9776176305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9829551335",
+        "addr:street": "E. Ragas Street",
+        "amenity": "fire_station",
+        "name": "Pateros Filipino-Chinese Volunteer Fire and Rescue",
+        "operator:type": "community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0701938,
+          14.5440266
+        ]
+      },
+      "id": "node/9829551335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9877497503",
+        "addr:city": "Las Piñas",
+        "addr:postcode": "1751",
+        "addr:street": "Daang Hari",
+        "amenity": "fire_station",
+        "name": "Fire Sub-Station Almanza Dos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0180924,
+          14.415815
+        ]
+      },
+      "id": "node/9877497503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9885032760",
+        "addr:city": "San Juan",
+        "addr:postcode": "1500",
+        "addr:street": "San Venancio Street",
+        "amenity": "fire_station",
+        "contact:facebook": "https://www.facebook.com/centralsanjuanfireandrescuevolunteerinc",
+        "name": "Central San Juan Fire Rescue Volunteer",
+        "opening_hours": "24/7",
+        "operator": "Central San Juan Fire Rescue Volunteer Inc.",
+        "operator:type": "community",
+        "phone": "+63 2 8671 0346",
+        "short_name": "CSJFRVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0230651,
+          14.6027292
+        ]
+      },
+      "id": "node/9885032760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10000886270",
+        "addr:housenumber": "118",
+        "addr:street": "Old Samson Road",
+        "amenity": "fire_station",
+        "mapillary": "299896958934014",
+        "name": "Team Network Fire Rescue Department",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0098124,
+          14.6559215
+        ]
+      },
+      "id": "node/10000886270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10127492252",
+        "addr:city": "Quezon City",
+        "addr:street": "Payatas Road",
+        "amenity": "fire_station",
+        "mapillary": "257786216212277",
+        "name": "Pamatay Sunog",
+        "name:fil": "Pamatay Sunog",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0965765,
+          14.7147324
+        ]
+      },
+      "id": "node/10127492252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10258383320",
+        "addr:city": "Valenzuela",
+        "addr:street": "MacArthur Highway",
+        "amenity": "fire_station",
+        "fixme": "name",
+        "mapillary": "363513848996044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9612949,
+          14.7041911
+        ]
+      },
+      "id": "node/10258383320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10688299005",
+        "addr:street": "Market Drive",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.043486,
+          14.4188246
+        ]
+      },
+      "id": "node/10688299005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10717587634",
+        "addr:city": "Malabon",
+        "addr:housenumber": "1",
+        "addr:postcode": "1475",
+        "addr:street": "Pinagtipinan Circle",
+        "amenity": "fire_station",
+        "name": "Barangay Potrero Firefighters Squad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9833767,
+          14.6630996
+        ]
+      },
+      "id": "node/10717587634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10913135790",
+        "addr:city": "Mandaluyong",
+        "addr:postcode": "1550",
+        "addr:province": "Metro Manila",
+        "addr:quarter": "Hulo",
+        "addr:street": "Coronado Street",
+        "affiliation": "Bureau of Fire Protection;Fire District IV NCR",
+        "amenity": "fire_station",
+        "check_date": "2023-04-30",
+        "contact:phone": "+63 2 8534 7450;+63 2 8532 2189",
+        "name": "Hulo Fire Sub Station",
+        "source": "survey;maxar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.031781,
+          14.5701953
+        ]
+      },
+      "id": "node/10913135790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11062020476",
+        "amenity": "fire_station",
+        "name": "Mapulang Lupa Sub-Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0008753,
+          14.70261
+        ]
+      },
+      "id": "node/11062020476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11082310277",
+        "addr:city": "Manila",
+        "addr:district": "Santa Mesa",
+        "addr:postcode": "1016",
+        "addr:province": "Metro Manila",
+        "addr:street": "Leyte Street",
+        "amenity": "fire_station",
+        "name": "Oxva Fire and Rescue Volunteers Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0232377,
+          14.5939496
+        ]
+      },
+      "id": "node/11082310277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11082310278",
+        "addr:city": "Manila",
+        "addr:district": "santa mesa",
+        "addr:postcode": "1016",
+        "addr:province": "Metro Manila",
+        "addr:street": "Magsaysay Boulevard",
+        "amenity": "fire_station",
+        "name": "Moriones Fire and Rescue Volunteer Sta. Mesa Substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0105645,
+          14.6019774
+        ]
+      },
+      "id": "node/11082310278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11082352287",
+        "addr:city": "Manila",
+        "addr:district": "Santa Mesa",
+        "addr:postcode": "1016",
+        "addr:province": "Metro Manila",
+        "addr:street": "Lubiran Street",
+        "amenity": "fire_station",
+        "name": "Bocood Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0199646,
+          14.5910742
+        ]
+      },
+      "id": "node/11082352287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11155361985",
+        "addr:street": "A. Roque Street",
+        "amenity": "fire_station",
+        "name": "Tonsuya Fire Brigade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9586767,
+          14.6629919
+        ]
+      },
+      "id": "node/11155361985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11160240960",
+        "addr:street": "M. Blas Street",
+        "amenity": "fire_station",
+        "name": "Hulong Duhat Fire Sub-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9416728,
+          14.6777639
+        ]
+      },
+      "id": "node/11160240960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11166266528",
+        "addr:street": "F. Sevilla Boulevard",
+        "amenity": "fire_station",
+        "mapillary": "1114133022717700",
+        "name": "Malabon City Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9502418,
+          14.658652
+        ]
+      },
+      "id": "node/11166266528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11166385662",
+        "addr:street": "Padrigal Street",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9783051,
+          14.6895648
+        ]
+      },
+      "id": "node/11166385662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11337299769",
+        "amenity": "fire_station",
+        "name": "D-Concept FCVFbB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9943095,
+          14.6558718
+        ]
+      },
+      "id": "node/11337299769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11519249222",
+        "amenity": "fire_station",
+        "name": "Wawang Pulo Fire Substation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9276402,
+          14.7336565
+        ]
+      },
+      "id": "node/11519249222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11530035211",
+        "amenity": "fire_station",
+        "name": "Old Tinajeros Fire, Rescue, and Tactics Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9648957,
+          14.6698595
+        ]
+      },
+      "id": "node/11530035211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11668456896",
+        "amenity": "fire_station",
+        "operator": "Unilab",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0549539,
+          14.5750743
+        ]
+      },
+      "id": "node/11668456896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11754858469",
+        "addr:housenumber": "135",
+        "addr:street": "Speaker Perez Street",
+        "amenity": "fire_station",
+        "name": "Quezon City Firefighters Volunteer Association Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9973454,
+          14.6323415
+        ]
+      },
+      "id": "node/11754858469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11845227434",
+        "amenity": "fire_station",
+        "operator": "San Andres Volunteer Fire Brigade",
+        "operator:type": "community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0033543,
+          14.5663837
+        ]
+      },
+      "id": "node/11845227434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11845263731",
+        "addr:street": "Casino Street",
+        "amenity": "fire_station",
+        "name": "Makati Fire Sub-station 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0057193,
+          14.5603337
+        ]
+      },
+      "id": "node/11845263731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11882889023",
+        "addr:street": "40th Street",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0551292,
+          14.5607882
+        ]
+      },
+      "id": "node/11882889023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11900666393",
+        "amenity": "fire_station",
+        "operator": "SGC Fire & Rescue Communications Group",
+        "operator:type": "consortium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0801858,
+          14.5567657
+        ]
+      },
+      "id": "node/11900666393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11908518568",
+        "amenity": "fire_station",
+        "operator": "Santa Rosa Barangay LGU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0729564,
+          14.5587763
+        ]
+      },
+      "id": "node/11908518568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11927188048",
+        "amenity": "fire_station",
+        "operator": "Ugong Barangay LGU",
+        "operator:type": "community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0785403,
+          14.5791963
+        ]
+      },
+      "id": "node/11927188048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11950533034",
+        "amenity": "fire_station",
+        "name": "Taguig Central Fire Station",
+        "operator": "Bureau of Fire Protection",
+        "operator:wikidata": "Q17027200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0429772,
+          14.5028155
+        ]
+      },
+      "id": "node/11950533034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11976170547",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0571641,
+          14.5109237
+        ]
+      },
+      "id": "node/11976170547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11993153296",
+        "amenity": "fire_station",
+        "name": "Bagumbayan Multipurpose Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.082447,
+          14.603708
+        ]
+      },
+      "id": "node/11993153296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12084738133",
+        "amenity": "fire_station",
+        "name": "Krus Na Ligas Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0626718,
+          14.6472573
+        ]
+      },
+      "id": "node/12084738133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12236171990",
+        "amenity": "fire_station",
+        "name": "Bagong Silang Fire Sub Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0371065,
+          14.7813195
+        ]
+      },
+      "id": "node/12236171990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12466498005",
+        "amenity": "fire_station",
+        "description": "roof with small fire engine. No sign or other building",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0112595,
+          14.397001
+        ]
+      },
+      "id": "node/12466498005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12496196001",
+        "amenity": "fire_station",
+        "name": "Bignay Fire Sub Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9968648,
+          14.7478688
+        ]
+      },
+      "id": "node/12496196001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12602323790",
+        "amenity": "fire_station",
+        "check_date": "2025-02-20",
+        "name": "Metro Pasig Fil-Chi Fire & Rescue Volunteers",
+        "operator:type": "consortium",
+        "short_name": "Metro Pasig Fire Fighters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0741329,
+          14.5661538
+        ]
+      },
+      "id": "node/12602323790"
+    }
+  ]
+}

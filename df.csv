@@ -1,0 +1,101 @@
+barangay,city,year,avgHouseholdSize,pop,incomePerCapita
+Barangay 001,Manila,2020,4.3,65000,2100
+Barangay 002,Quezon City,2020,4.1,52000,2400
+Barangay 003,Caloocan,2020,4.5,48000,1900
+Barangay 004,Pasay,2020,4.0,30000,2200
+Barangay 005,Pasig,2020,4.2,35000,2300
+Barangay 006,Makati,2020,4.0,28000,3500
+Barangay 007,Mandaluyong,2020,4.4,32000,2600
+Barangay 008,Malabon,2020,4.3,27000,1800
+Barangay 009,Marikina,2020,4.2,40000,2400
+Barangay 010,Muntinlupa,2020,4.1,31000,2200
+Barangay 011,Navotas,2020,4.0,29000,2000
+Barangay 012,Para¤aque,2020,4.3,34000,2300
+Barangay 013,San Juan,2020,4.2,26000,2100
+Barangay 014,Taguig,2020,4.5,38000,2500
+Barangay 015,Valenzuela,2020,4.1,45000,1900
+Barangay 016,Pateros,2020,4.0,15000,1800
+Barangay 017,Manila,2020,4.4,68000,2200
+Barangay 018,Quezon City,2020,4.2,54000,2500
+Barangay 019,Caloocan,2020,4.5,50000,2000
+Barangay 020,Pasay,2020,4.0,31000,2300
+Barangay 021,Pasig,2020,4.3,36000,2400
+Barangay 022,Makati,2020,4.1,30000,3600
+Barangay 023,Mandaluyong,2020,4.4,33000,2700
+Barangay 024,Malabon,2020,4.3,28000,1900
+Barangay 025,Marikina,2020,4.2,41000,2500
+Barangay 026,Muntinlupa,2020,4.1,32000,2300
+Barangay 027,Navotas,2020,4.0,30000,2100
+Barangay 028,Para¤aque,2020,4.3,35000,2400
+Barangay 029,San Juan,2020,4.2,27000,2200
+Barangay 030,Taguig,2020,4.5,39000,2600
+Barangay 031,Valenzuela,2020,4.1,46000,2000
+Barangay 032,Pateros,2020,4.0,16000,1900
+Barangay 033,Manila,2020,4.3,66000,2100
+Barangay 034,Quezon City,2020,4.2,55000,2500
+Barangay 035,Caloocan,2020,4.5,51000,1950
+Barangay 036,Pasay,2020,4.0,32000,2300
+Barangay 037,Pasig,2020,4.3,37000,2400
+Barangay 038,Makati,2020,4.1,29000,3550
+Barangay 039,Mandaluyong,2020,4.4,34000,2650
+Barangay 040,Malabon,2020,4.3,29000,1850
+Barangay 041,Marikina,2020,4.2,42000,2450
+Barangay 042,Muntinlupa,2020,4.1,33000,2350
+Barangay 043,Navotas,2020,4.0,31000,2050
+Barangay 044,Para¤aque,2020,4.3,36000,2400
+Barangay 045,San Juan,2020,4.2,28000,2150
+Barangay 046,Taguig,2020,4.5,40000,2650
+Barangay 047,Valenzuela,2020,4.1,47000,2050
+Barangay 048,Pateros,2020,4.0,17000,1950
+Barangay 049,Manila,2020,4.3,67000,2150
+Barangay 050,Quezon City,2020,4.2,56000,2550
+Barangay 051,Caloocan,2020,4.5,52000,2000
+Barangay 052,Pasay,2020,4.0,33000,2350
+Barangay 053,Pasig,2020,4.3,38000,2450
+Barangay 054,Makati,2020,4.1,31000,3600
+Barangay 055,Mandaluyong,2020,4.4,35000,2700
+Barangay 056,Malabon,2020,4.3,30000,1900
+Barangay 057,Marikina,2020,4.2,43000,2500
+Barangay 058,Muntinlupa,2020,4.1,34000,2350
+Barangay 059,Navotas,2020,4.0,32000,2100
+Barangay 060,Para¤aque,2020,4.3,37000,2450
+Barangay 061,San Juan,2020,4.2,29000,2200
+Barangay 062,Taguig,2020,4.5,41000,2700
+Barangay 063,Valenzuela,2020,4.1,48000,2100
+Barangay 064,Pateros,2020,4.0,18000,1950
+Barangay 065,Manila,2020,4.3,68000,2150
+Barangay 066,Quezon City,2020,4.2,57000,2550
+Barangay 067,Caloocan,2020,4.5,53000,2000
+Barangay 068,Pasay,2020,4.0,34000,2350
+Barangay 069,Pasig,2020,4.3,39000,2450
+Barangay 070,Makati,2020,4.1,32000,3600
+Barangay 071,Mandaluyong,2020,4.4,36000,2700
+Barangay 072,Malabon,2020,4.3,31000,1900
+Barangay 073,Marikina,2020,4.2,44000,2500
+Barangay 074,Muntinlupa,2020,4.1,35000,2350
+Barangay 075,Navotas,2020,4.0,33000,2100
+Barangay 076,Para¤aque,2020,4.3,38000,2450
+Barangay 077,San Juan,2020,4.2,30000,2200
+Barangay 078,Taguig,2020,4.5,42000,2700
+Barangay 079,Valenzuela,2020,4.1,49000,2100
+Barangay 080,Pateros,2020,4.0,19000,1950
+Barangay 081,Manila,2020,4.3,69000,2150
+Barangay 082,Quezon City,2020,4.2,58000,2550
+Barangay 083,Caloocan,2020,4.5,54000,2000
+Barangay 084,Pasay,2020,4.0,35000,2350
+Barangay 085,Pasig,2020,4.3,40000,2450
+Barangay 086,Makati,2020,4.1,33000,3600
+Barangay 087,Mandaluyong,2020,4.4,37000,2700
+Barangay 088,Malabon,2020,4.3,32000,1900
+Barangay 089,Marikina,2020,4.2,45000,2500
+Barangay 090,Muntinlupa,2020,4.1,36000,2350
+Barangay 091,Navotas,2020,4.0,34000,2100
+Barangay 092,Para¤aque,2020,4.3,39000,2450
+Barangay 093,San Juan,2020,4.2,31000,2200
+Barangay 094,Taguig,2020,4.5,43000,2700
+Barangay 095,Valenzuela,2020,4.1,50000,2100
+Barangay 096,Pateros,2020,4.0,20000,1950
+Barangay 097,Manila,2020,4.3,70000,2150
+Barangay 098,Quezon City,2020,4.2,59000,2550
+Barangay 099,Caloocan,2020,4.5,55000,2000
+Barangay 100,Pasay,2020,4.0,36000,2350

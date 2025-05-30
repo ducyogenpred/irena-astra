@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=arrow_circle_right,arrow_circle_left,"
+    />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+  </head>
+  <body>
+    <div class="mainGridLayout">
+      <div class="logo theme_side">
+        <a href="" class="logo-link"><h2 class="logo-heading">IRENA ASTRA</h2></a>
+      </div>
+      <header class="header"></header>
+      <aside class="aside theme_side">
+        <nav class="navbar">
+          <ul class="navbar-list">
+            <li class="navbar-item">
+              <a href="home.html" class="navbar-link">Home</a>
+            </li>
+            <li class="navbar-item">
+              <a href="aichat.html" class="navbar-link">AI Chat</a>
+            </li>
+            <li class="navbar-item">
+              <a href="forecast.html" class="navbar-link">Weather Forecast</a>
+            </li>
+            <li class="navbar-item">
+              <a href="map.html" class="navbar-link">Map</a>
+            </li>
+            <li class="navbar-item">
+              <a href="reporthazard.html" class="navbar-link">Report a Hazard</a>
+            </li>
+            <li class="navbar-item">
+              <a href="handbook.html" class="navbar-link">Handbook</a>
+            </li>
+          </ul>
+        </nav>
+      </aside>
+      <main class="main">
+        <section class="centerTextImage">
+          <h1 class="centerTextImage-heading">IN AN EMERGENCY</h1>
+          <h2 class="centerTextImage-subHeading">keep calm and do not panic</h2>
+          <p class="centerTextImage-paragraph"></p>
+          <img
+            src="https://static.vecteezy.com/system/resources/previews/028/318/434/non_2x/panic-stickman-illustration-free-vector.jpg"
+            alt=""
+            class="centerTextImage-image"
+          />
+        </section>
+        <section class="centerTextImage">
+          <h1 class="centerTextImage-heading">REMEMBER!</h1>
+          <h2 class="centerTextImage-subHeading">In the event of an earthquake</h2>
+          <p class="centerTextImage-paragraph">Don't forget to</p>
+          <img
+            src="https://cusec.org/wp-content/uploads/Drop_ENG_Blue_Orange.png"
+            alt=""
+            class="centerTextImage-image centerTextImage-image_multi centerTextImage-image_solo"
+          />
+          <div class="wrapper wrapper_flex">
+            <img
+              src="https://cusec.org/wp-content/uploads/Cover_ENG_Blue_Orange.png"
+              alt=""
+              class="centerTextImage-image centerTextImage-image_multi"
+            />
+            <img
+              src="https://cusec.org/wp-content/uploads/HoldOn_ENG_Blue_Orange.png"
+              alt=""
+              class="centerTextImage-image centerTextImage-image_multi"
+            />
+          </div>
+        </section>
+        <section class="centerTextImage">
+          <h1 class="centerTextImage-heading">IN THE EVENT OF AN EMERGENCY</h1>
+          <h2 class="centerTextImage-subHeading">Remember to pack these supplies:</h2>
+          <p class="centerTextImage-paragraph"></p>
+          <div class="wrapper wrapper_flex wrapper_paddingLeft">
+            <img
+              src="https://uoflhealth.org/wp-content/uploads/2021/11/First-Aid-kit.jpg"
+              alt=""
+              class="centerTextImage-image centerTextImage-image_line"
+            />
+            <img
+              src="https://cdn-s3.touchofmodern.com/products/000/837/566/f5c21ec7a28456c18e57ff18fcc3751c_large.jpg?1508260444"
+              alt=""
+              class="centerTextImage-image centerTextImage-image_line"
+            />
+            <img
+              src="https://m.media-amazon.com/images/I/813butbqRwL.jpg"
+              alt=""
+              class="centerTextImage-image centerTextImage-image_line"
+            />
+            <img
+              src="https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/Na4AAOSwCgNbr7FP/$_57.JPG?set_id=8800005007"
+              alt=""
+              class="centerTextImage-image centerTextImage-image_line"
+            />
+            <img
+              src="https://www.ubuy.com.ph/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODEramRlbytQdEwuX0FDX1NMMTUwMF8uanBn.jpg"
+              alt=""
+              class="centerTextImage-image centerTextImage-image_line"
+            />
+            <img
+              src="https://www.thespruceeats.com/thmb/U_Jl4KSukouhfsmTyvpR0A8UGx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cannedfoodsWarren_Price-2d07bf3a98814f7b8f061e800a509627.jpg"
+              alt=""
+              class="centerTextImage-image centerTextImage-image_line"
+            />
+            <img
+              src="https://images.pexels.com/photos/20233772/pexels-photo-20233772/free-photo-of-woman-holding-a-map.jpeg"
+              alt=""
+              class="centerTextImage-image centerTextImage-image_line"
+            />
+            <img
+              src="https://images.anandtech.com/doci/10194/X-T30_DSF4322.jpg"
+              alt=""
+              class="centerTextImage-image centerTextImage-image_line"
+            />
+          </div>
+        </section>
+      </main>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+  </body>
+</html>

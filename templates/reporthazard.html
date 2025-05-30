@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=arrow_upward"
+    />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+  </head>
+  <body>
+    <div class="mainGridLayout">
+      <div class="logo theme_side">
+        <a href="" class="logo-link"><h2 class="logo-heading">IRENA ASTRA</h2></a>
+      </div>
+      <header class="header"></header>
+      <aside class="aside theme_side">
+        <nav class="navbar">
+          <ul class="navbar-list">
+            <li class="navbar-item">
+              <a href="home.html" class="navbar-link">Home</a>
+            </li>
+            <li class="navbar-item">
+              <a href="aichat.html" class="navbar-link">AI Chat</a>
+            </li>
+            <li class="navbar-item">
+              <a href="forecast.html" class="navbar-link">Weather Forecast</a>
+            </li>
+            <li class="navbar-item">
+              <a href="map.html" class="navbar-link">Map</a>
+            </li>
+            <li class="navbar-item">
+              <a href="reporthazard.html" class="navbar-link">Report a Hazard</a>
+            </li>
+            <li class="navbar-item">
+              <a href="handbook.html" class="navbar-link">Handbook</a>
+            </li>
+          </ul>
+        </nav>
+      </aside>
+      <main class="main">
+        <section class="centerTextImage">
+          <h1 class="centerTextImage-heading">REPORT</h1>
+          <h2 class="centerTextImage-subHeading">Hazard Sightings</h2>
+          <p class="centerTextImage-paragraph">Be your community's hero</p>
+        </section>
+        <section>
+          <iframe src="/dash/" width="100%" height="600px" style="border: none"></iframe>
+        </section>
+        <form class="formLayout">
+          <label class="formLayout-label" for="city">City</label>
+          <input type="text" id="city" name="city" class="formLayout-input" />
+
+          <label class="formLayout-label" for="barangay">Barangay</label>
+          <input type="text" id="barangay" name="barangay" class="formLayout-input" />
+
+          <label class="formLayout-label" for="danger">Danger</label>
+          <input type="text" id="danger" name="danger" class="formLayout-input" />
+
+          <button type="submit" class="btn">Report Danger</button>
+        </form>
+      </main>
+    </div>
+  </body>
+</html>
