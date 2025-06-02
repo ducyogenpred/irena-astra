@@ -44,7 +44,7 @@ def aichat_api():
     global chat_history
     data = request.json
     user_message = data.get("message", "")
-    client = genai.Client(api_key="AIzaSyDDvtylxc-SAy0s9gM-A5gIuvYyWt2QgvI")
+    client = genai.Client(api_key="")
     response = client.models.generate_content(
         model='gemini-2.0-flash-thinking-exp',
         contents=user_message + '\nChat history: \n' + chat_history,
